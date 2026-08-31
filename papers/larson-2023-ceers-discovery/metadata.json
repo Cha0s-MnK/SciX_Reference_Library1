@@ -29,9 +29,16 @@
     "quasars"
   ],
   "filename": "A CEERS Discovery of an Accreting SMBH 570Myr after the Big Bang - Identifying a Progenitor of Massive z 6 Quasars_Larson2023SMBH.pdf",
-  "repository": "Reference-Library-1",
+  "repository": "reference-library-1",
   "path": "papers/larson-2023-ceers-discovery/A CEERS Discovery of an Accreting SMBH 570Myr after the Big Bang - Identifying a Progenitor of Massive z 6 Quasars_Larson2023SMBH.pdf",
-  "sizeLabel": "2.7 MB",
-  "updatedAt": "2026-08-25",
-  "hasPdf": true
+  "sizeLabel": "2.8 MB",
+  "updatedAt": "2026-08-31",
+  "hasPdf": true,
+  "sourceKind": "publisher",
+  "sourceLabel": "Published PDF · IOP · SciX open",
+  "sourceUrl": "https://iopscience.iop.org/article/10.3847/2041-8213/ace619/pdf",
+  "doi": "10.3847/2041-8213/ace619",
+  "bibcode": "2023ApJ...953L..29L",
+  "arxivId": "2303.08918",
+  "sizeBytes": 2829347
 }

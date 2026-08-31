@@ -28,6 +28,13 @@
   "repository": "reference-library-1",
   "path": "papers/bogdan-2024-heavy-seed/Evidence for heavy-seed origin of early SMBHs from a z ≈ 10 X-ray quasar_Bogdan+2024SMBH.pdf",
   "sizeLabel": "4.6 MB",
-  "updatedAt": "2026-08-21",
-  "hasPdf": true
+  "updatedAt": "2026-08-31",
+  "hasPdf": true,
+  "sourceKind": "preprint",
+  "sourceLabel": "Open preprint PDF · SciX source",
+  "sourceUrl": "https://arxiv.org/pdf/2305.15458",
+  "doi": "10.1038/s41550-023-02111-9",
+  "bibcode": "2024NatAs...8..126B",
+  "arxivId": "2305.15458",
+  "sizeBytes": 4613188
 }

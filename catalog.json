@@ -26,9 +26,16 @@
     "filename": "A JWST:NIRSpec First Census of Broad-line AGNs at z = 4-7- Detection of 10 Faint AGNs with Mbh 10to6-10to8 Msun & Their Host Galaxy Properties_Harikane+2023SMBH.pdf",
     "repository": "reference-library-1",
     "path": "papers/harikane-2023-jwst-nirspec/A JWST:NIRSpec First Census of Broad-line AGNs at z = 4-7- Detection of 10 Faint AGNs with Mbh 10to6-10to8 Msun & Their Host Galaxy Properties_Harikane+2023SMBH.pdf",
-    "sizeLabel": "7.4 MB",
-    "updatedAt": "2026-08-21",
-    "hasPdf": true
+    "sizeLabel": "7.8 MB",
+    "updatedAt": "2026-08-31",
+    "hasPdf": true,
+    "sourceKind": "publisher",
+    "sourceLabel": "Published PDF · IOP · SciX open",
+    "sourceUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/ad029e/pdf",
+    "doi": "10.3847/1538-4357/ad029e",
+    "bibcode": "2023ApJ...959...39H",
+    "arxivId": "2303.11946",
+    "sizeBytes": 7782262
   },
   {
     "id": "furtak-2024-lensed-agn",
@@ -63,9 +70,16 @@
     "filename": "A high BH-to-host mass ratio in a lensed AGN in the early Universe_Furtak+2024SMBH.pdf",
     "repository": "reference-library-1",
     "path": "papers/furtak-2024-lensed-agn/A high BH-to-host mass ratio in a lensed AGN in the early Universe_Furtak+2024SMBH.pdf",
-    "sizeLabel": "1.9 MB",
-    "updatedAt": "2026-08-21",
-    "hasPdf": true
+    "sizeLabel": "1.0 MB",
+    "updatedAt": "2026-08-31",
+    "hasPdf": true,
+    "sourceKind": "preprint",
+    "sourceLabel": "Open preprint PDF · SciX source",
+    "sourceUrl": "https://arxiv.org/pdf/2308.05735",
+    "doi": "10.1038/s41586-024-07184-8",
+    "bibcode": "2024Natur.628...57F",
+    "arxivId": "2308.05735",
+    "sizeBytes": 1034580
   },
   {
     "id": "maiolino-2024-gn-z11",
@@ -100,9 +114,16 @@
     "filename": "A small and vigorous BH in the early Universe_Maiolino+2024GN-z11&SMBH.pdf",
     "repository": "reference-library-1",
     "path": "papers/maiolino-2024-gn-z11/A small and vigorous BH in the early Universe_Maiolino+2024GN-z11&SMBH.pdf",
-    "sizeLabel": "7.3 MB",
-    "updatedAt": "2026-08-21",
-    "hasPdf": true
+    "sizeLabel": "7.7 MB",
+    "updatedAt": "2026-08-31",
+    "hasPdf": true,
+    "sourceKind": "publisher",
+    "sourceLabel": "Published PDF · Nature · open access",
+    "sourceUrl": "https://www.nature.com/articles/s41586-024-07052-5.pdf",
+    "doi": "10.1038/s41586-024-07052-5",
+    "bibcode": "2024Natur.627...59M",
+    "arxivId": "2305.12492",
+    "sizeBytes": 7695097
   },
   {
     "id": "banados-2018-quasar",
@@ -137,9 +158,16 @@
     "filename": "An 800-million-solar-mass BH in a significantly neutral Universe at a redshift of 7.5_Banados+2018SMBH.pdf",
     "repository": "reference-library-1",
     "path": "papers/banados-2018-quasar/An 800-million-solar-mass BH in a significantly neutral Universe at a redshift of 7.5_Banados+2018SMBH.pdf",
-    "sizeLabel": "1.8 MB",
-    "updatedAt": "2026-08-21",
-    "hasPdf": true
+    "sizeLabel": "1.7 MB",
+    "updatedAt": "2026-08-31",
+    "hasPdf": true,
+    "sourceKind": "preprint",
+    "sourceLabel": "Open preprint PDF · SciX source",
+    "sourceUrl": "https://arxiv.org/pdf/1712.01860",
+    "doi": "10.1038/nature25180",
+    "bibcode": "2018Natur.553..473B",
+    "arxivId": "1712.01860",
+    "sizeBytes": 1718060
   },
   {
     "id": "bogdan-2024-heavy-seed",
@@ -171,8 +199,15 @@
     "repository": "reference-library-1",
     "path": "papers/bogdan-2024-heavy-seed/Evidence for heavy-seed origin of early SMBHs from a z ≈ 10 X-ray quasar_Bogdan+2024SMBH.pdf",
     "sizeLabel": "4.6 MB",
-    "updatedAt": "2026-08-21",
-    "hasPdf": true
+    "updatedAt": "2026-08-31",
+    "hasPdf": true,
+    "sourceKind": "preprint",
+    "sourceLabel": "Open preprint PDF · SciX source",
+    "sourceUrl": "https://arxiv.org/pdf/2305.15458",
+    "doi": "10.1038/s41550-023-02111-9",
+    "bibcode": "2024NatAs...8..126B",
+    "arxivId": "2305.15458",
+    "sizeBytes": 4613188
   },
   {
     "id": "kocevski-2023-hidden-monsters",
@@ -207,9 +242,16 @@
     "filename": "Hidden Little Monsters- Spectroscopic Identification of Low-mass, Broad-line AGNs at  z>5 with CEERS_Kocevski+2023SMBH.pdf",
     "repository": "reference-library-1",
     "path": "papers/kocevski-2023-hidden-monsters/Hidden Little Monsters- Spectroscopic Identification of Low-mass, Broad-line AGNs at  z>5 with CEERS_Kocevski+2023SMBH.pdf",
-    "sizeLabel": "2.4 MB",
-    "updatedAt": "2026-08-21",
-    "hasPdf": true
+    "sizeLabel": "2.5 MB",
+    "updatedAt": "2026-08-31",
+    "hasPdf": true,
+    "sourceKind": "publisher",
+    "sourceLabel": "Published PDF · IOP · SciX open",
+    "sourceUrl": "https://iopscience.iop.org/article/10.3847/2041-8213/ace5a0/pdf",
+    "doi": "10.3847/2041-8213/ace5a0",
+    "bibcode": "2023ApJ...954L...4K",
+    "arxivId": "2302.00012",
+    "sizeBytes": 2488273
   },
   {
     "id": "fragione-2018-inspirals",
@@ -231,8 +273,15 @@
     "repository": "reference-library-1",
     "path": "papers/fragione-2018-inspirals/Intermediate-mass ratio inspirals in galactic nuclei.pdf",
     "sizeLabel": "0.6 MB",
-    "updatedAt": "2026-08-21",
-    "hasPdf": true
+    "updatedAt": "2026-08-31",
+    "hasPdf": true,
+    "sourceKind": "preprint",
+    "sourceLabel": "Open preprint PDF · SciX source",
+    "sourceUrl": "https://arxiv.org/pdf/1807.09281",
+    "doi": "10.1093/mnras/sty2233",
+    "bibcode": "2018MNRAS.480.5160F",
+    "arxivId": "1807.09281",
+    "sizeBytes": 603579
   },
   {
     "id": "smith-bromm-2019-early-universe",
@@ -253,9 +302,16 @@
     "filename": "SMBHs in the early universe_Smith&Bromm+2019SMBH.pdf",
     "repository": "reference-library-1",
     "path": "papers/smith-bromm-2019-early-universe/SMBHs in the early universe_Smith&Bromm+2019SMBH.pdf",
-    "sizeLabel": "1.7 MB",
-    "updatedAt": "2026-08-21",
-    "hasPdf": true
+    "sizeLabel": "7.1 MB",
+    "updatedAt": "2026-08-31",
+    "hasPdf": true,
+    "sourceKind": "preprint",
+    "sourceLabel": "Open preprint PDF · SciX source",
+    "sourceUrl": "https://arxiv.org/pdf/1904.12890",
+    "doi": "10.1080/00107514.2019.1615715",
+    "bibcode": "2019ConPh..60..111S",
+    "arxivId": "1904.12890",
+    "sizeBytes": 7078707
   },
   {
     "id": "jones-2025-lrds",
@@ -290,9 +346,14 @@
     "filename": "The Mbh-Mstar Relationship at 3 < z < 7- Big Black Holes in LRDs_Jones+2025SMBH.pdf",
     "repository": "reference-library-1",
     "path": "papers/jones-2025-lrds/The Mbh-Mstar Relationship at 3 < z < 7- Big Black Holes in LRDs_Jones+2025SMBH.pdf",
-    "sizeLabel": "2.6 MB",
-    "updatedAt": "2026-08-21",
-    "hasPdf": true
+    "sizeLabel": "2.7 MB",
+    "updatedAt": "2026-08-31",
+    "hasPdf": true,
+    "sourceKind": "preprint",
+    "sourceLabel": "Open preprint PDF · SciX source",
+    "sourceUrl": "https://arxiv.org/pdf/2510.07376",
+    "arxivId": "2510.07376",
+    "sizeBytes": 2727908
   },
   {
     "id": "larson-2023-ceers-discovery",
@@ -325,10 +386,17 @@
       "quasars"
     ],
     "filename": "A CEERS Discovery of an Accreting SMBH 570Myr after the Big Bang - Identifying a Progenitor of Massive z 6 Quasars_Larson2023SMBH.pdf",
-    "repository": "Reference-Library-1",
+    "repository": "reference-library-1",
     "path": "papers/larson-2023-ceers-discovery/A CEERS Discovery of an Accreting SMBH 570Myr after the Big Bang - Identifying a Progenitor of Massive z 6 Quasars_Larson2023SMBH.pdf",
-    "sizeLabel": "2.7 MB",
-    "updatedAt": "2026-08-25",
-    "hasPdf": true
+    "sizeLabel": "2.8 MB",
+    "updatedAt": "2026-08-31",
+    "hasPdf": true,
+    "sourceKind": "publisher",
+    "sourceLabel": "Published PDF · IOP · SciX open",
+    "sourceUrl": "https://iopscience.iop.org/article/10.3847/2041-8213/ace619/pdf",
+    "doi": "10.3847/2041-8213/ace619",
+    "bibcode": "2023ApJ...953L..29L",
+    "arxivId": "2303.08918",
+    "sizeBytes": 2829347
   }
 ]

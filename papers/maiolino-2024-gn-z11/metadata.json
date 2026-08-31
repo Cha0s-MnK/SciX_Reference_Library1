@@ -31,7 +31,14 @@
   "filename": "A small and vigorous BH in the early Universe_Maiolino+2024GN-z11&SMBH.pdf",
   "repository": "reference-library-1",
   "path": "papers/maiolino-2024-gn-z11/A small and vigorous BH in the early Universe_Maiolino+2024GN-z11&SMBH.pdf",
-  "sizeLabel": "7.3 MB",
-  "updatedAt": "2026-08-21",
-  "hasPdf": true
+  "sizeLabel": "7.7 MB",
+  "updatedAt": "2026-08-31",
+  "hasPdf": true,
+  "sourceKind": "publisher",
+  "sourceLabel": "Published PDF · Nature · open access",
+  "sourceUrl": "https://www.nature.com/articles/s41586-024-07052-5.pdf",
+  "doi": "10.1038/s41586-024-07052-5",
+  "bibcode": "2024Natur.627...59M",
+  "arxivId": "2305.12492",
+  "sizeBytes": 7695097
 }

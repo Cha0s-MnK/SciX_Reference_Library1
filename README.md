@@ -1,9 +1,9 @@
-# Reference Library 1
+# SciX Reference Library 1
 
-Private PDF storage for the Reference Library web interface.
+Public, read-only data for a fast SciX-style reference catalogue.
 
-The repository keeps one small catalog at the root and stores each paper with
-its sidecar metadata under `papers/<stable-paper-id>/`:
+The repository keeps one small index at the root and stores each refreshed PDF
+with its sidecar metadata under `papers/<stable-paper-id>/`:
 
 ```text
 catalog.json
@@ -13,10 +13,15 @@ papers/
     metadata.json
 ```
 
-`catalog.json` is the index used by the web interface. The PDF is served only
-through the authenticated application; do not publish this repository or put
-tokens in it.
+`catalog.json` is the index consumed by the catalogue web application. Each
+record includes the paper identifiers, source URL, source type, access note,
+file size, and the GitHub path used to load the PDF.
 
-The initial import was generated from the uploaded `Supermassive Black Holes
-(SMBHs).zip` archive. Titles, authors, years, and tags are editable in the
-interface after import.
+The PDFs in this revision were downloaded afresh from openly accessible
+publisher or preprint sources identified through SciX. Publisher PDFs are
+used where SciX exposes an open route; otherwise the record uses an open
+preprint PDF. Paywalled publisher copies are not bypassed or redistributed.
+
+This repository contains no access tokens, PDF viewer state, or annotation
+sidecars. The web application is intentionally read-only: it provides catalogue
+search and filters and opens the stored PDFs as external GitHub links.

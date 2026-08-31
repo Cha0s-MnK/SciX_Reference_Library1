@@ -18,6 +18,13 @@
   "repository": "reference-library-1",
   "path": "papers/fragione-2018-inspirals/Intermediate-mass ratio inspirals in galactic nuclei.pdf",
   "sizeLabel": "0.6 MB",
-  "updatedAt": "2026-08-21",
-  "hasPdf": true
+  "updatedAt": "2026-08-31",
+  "hasPdf": true,
+  "sourceKind": "preprint",
+  "sourceLabel": "Open preprint PDF · SciX source",
+  "sourceUrl": "https://arxiv.org/pdf/1807.09281",
+  "doi": "10.1093/mnras/sty2233",
+  "bibcode": "2018MNRAS.480.5160F",
+  "arxivId": "1807.09281",
+  "sizeBytes": 603579
 }

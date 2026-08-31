@@ -31,7 +31,12 @@
   "filename": "The Mbh-Mstar Relationship at 3 < z < 7- Big Black Holes in LRDs_Jones+2025SMBH.pdf",
   "repository": "reference-library-1",
   "path": "papers/jones-2025-lrds/The Mbh-Mstar Relationship at 3 < z < 7- Big Black Holes in LRDs_Jones+2025SMBH.pdf",
-  "sizeLabel": "2.6 MB",
-  "updatedAt": "2026-08-21",
-  "hasPdf": true
+  "sizeLabel": "2.7 MB",
+  "updatedAt": "2026-08-31",
+  "hasPdf": true,
+  "sourceKind": "preprint",
+  "sourceLabel": "Open preprint PDF · SciX source",
+  "sourceUrl": "https://arxiv.org/pdf/2510.07376",
+  "arxivId": "2510.07376",
+  "sizeBytes": 2727908
 }

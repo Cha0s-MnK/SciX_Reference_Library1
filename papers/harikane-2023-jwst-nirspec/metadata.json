@@ -25,7 +25,14 @@
   "filename": "A JWST:NIRSpec First Census of Broad-line AGNs at z = 4-7- Detection of 10 Faint AGNs with Mbh 10to6-10to8 Msun & Their Host Galaxy Properties_Harikane+2023SMBH.pdf",
   "repository": "reference-library-1",
   "path": "papers/harikane-2023-jwst-nirspec/A JWST:NIRSpec First Census of Broad-line AGNs at z = 4-7- Detection of 10 Faint AGNs with Mbh 10to6-10to8 Msun & Their Host Galaxy Properties_Harikane+2023SMBH.pdf",
-  "sizeLabel": "7.4 MB",
-  "updatedAt": "2026-08-21",
-  "hasPdf": true
+  "sizeLabel": "7.8 MB",
+  "updatedAt": "2026-08-31",
+  "hasPdf": true,
+  "sourceKind": "publisher",
+  "sourceLabel": "Published PDF · IOP · SciX open",
+  "sourceUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/ad029e/pdf",
+  "doi": "10.3847/1538-4357/ad029e",
+  "bibcode": "2023ApJ...959...39H",
+  "arxivId": "2303.11946",
+  "sizeBytes": 7782262
 }

@@ -17,7 +17,14 @@
   "filename": "SMBHs in the early universe_Smith&Bromm+2019SMBH.pdf",
   "repository": "reference-library-1",
   "path": "papers/smith-bromm-2019-early-universe/SMBHs in the early universe_Smith&Bromm+2019SMBH.pdf",
-  "sizeLabel": "1.7 MB",
-  "updatedAt": "2026-08-21",
-  "hasPdf": true
+  "sizeLabel": "7.1 MB",
+  "updatedAt": "2026-08-31",
+  "hasPdf": true,
+  "sourceKind": "preprint",
+  "sourceLabel": "Open preprint PDF · SciX source",
+  "sourceUrl": "https://arxiv.org/pdf/1904.12890",
+  "doi": "10.1080/00107514.2019.1615715",
+  "bibcode": "2019ConPh..60..111S",
+  "arxivId": "1904.12890",
+  "sizeBytes": 7078707
 }

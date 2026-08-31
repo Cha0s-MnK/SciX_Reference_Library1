@@ -31,7 +31,14 @@
   "filename": "An 800-million-solar-mass BH in a significantly neutral Universe at a redshift of 7.5_Banados+2018SMBH.pdf",
   "repository": "reference-library-1",
   "path": "papers/banados-2018-quasar/An 800-million-solar-mass BH in a significantly neutral Universe at a redshift of 7.5_Banados+2018SMBH.pdf",
-  "sizeLabel": "1.8 MB",
-  "updatedAt": "2026-08-21",
-  "hasPdf": true
+  "sizeLabel": "1.7 MB",
+  "updatedAt": "2026-08-31",
+  "hasPdf": true,
+  "sourceKind": "preprint",
+  "sourceLabel": "Open preprint PDF · SciX source",
+  "sourceUrl": "https://arxiv.org/pdf/1712.01860",
+  "doi": "10.1038/nature25180",
+  "bibcode": "2018Natur.553..473B",
+  "arxivId": "1712.01860",
+  "sizeBytes": 1718060
 }
