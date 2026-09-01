@@ -25,7 +25,8 @@
     "title": "Nuclear star clusters",
     "updatedAt": "2026-08-31",
     "volume": "28",
-    "year": 2020
+    "year": 2020,
+    "bibtex": "@ARTICLE{2020A&ARv..28....4N,\n       author = {{Neumayer}, Nadine and {Seth}, Anil and {B{\\\"o}ker}, Torsten},\n        title = \"{Nuclear star clusters}\",\n      journal = {\\aapr},\n     keywords = {Astrophysics - Astrophysics of Galaxies},\n         year = 2020,\n        month = jul,\n       volume = {28},\n       number = {1},\n          eid = {4},\n        pages = {4},\n          doi = {10.1007/s00159-020-00125-0},\narchivePrefix = {arXiv},\n       eprint = {2001.03626},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&ARv..28....4N},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A/abstract",
@@ -53,7 +54,8 @@
     "title": "DESI 2024 VI: cosmological constraints from the measurements of baryon acoustic oscillations",
     "updatedAt": "2026-08-31",
     "volume": "2025",
-    "year": 2025
+    "year": 2025,
+    "bibtex": "@ARTICLE{2025JCAP...02..021A,\n       author = {{Adame}, A.~G. and {Aguilar}, J. and {Ahlen}, S. and et al.},\n        title = \"{DESI 2024 VI: cosmological constraints from the measurements of baryon acoustic oscillations}\",\n      journal = {\\jcap},\n     keywords = {baryon acoustic oscillations, cosmological parameters from LSS, dark energy experiments, neutrino masses from cosmology, Cosmology and Nongalactic Astrophysics},\n         year = 2025,\n        month = feb,\n       volume = {2025},\n       number = {2},\n          eid = {021},\n        pages = {021},\n          doi = {10.1088/1475-7516/2025/02/021},\narchivePrefix = {arXiv},\n       eprint = {2404.03002},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2013ApJ...770...57B/abstract",
@@ -81,7 +83,8 @@
     "title": "The Average Star Formation Histories of Galaxies in Dark Matter Halos from z = 0-8",
     "updatedAt": "2026-08-31",
     "volume": "770",
-    "year": 2013
+    "year": 2013,
+    "bibtex": "@ARTICLE{2013ApJ...770...57B,\n       author = {{Behroozi}, Peter S. and {Wechsler}, Risa H. and {Conroy}, Charlie},\n        title = \"{The Average Star Formation Histories of Galaxies in Dark Matter Halos from z = 0-8}\",\n      journal = {\\apj},\n     keywords = {dark matter, galaxies: abundances, galaxies: evolution, methods: numerical, Astrophysics - Cosmology and Extragalactic Astrophysics},\n         year = 2013,\n        month = jun,\n       volume = {770},\n       number = {1},\n          eid = {57},\n        pages = {57},\n          doi = {10.1088/0004-637X/770/1/57},\narchivePrefix = {arXiv},\n       eprint = {1207.6105},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2013ApJ...770...57B},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2010ApJ...711.1198T/abstract",
@@ -109,7 +112,8 @@
     "title": "How Well do Cosmological Simulations Reproduce Individual Halo Properties?",
     "updatedAt": "2026-08-31",
     "volume": "711",
-    "year": 2010
+    "year": 2010,
+    "bibtex": "@ARTICLE{2010ApJ...711.1198T,\n       author = {{Trenti}, Michele and {Smith}, Britton D. and {Hallman}, Eric J. and et al.},\n        title = \"{How Well do Cosmological Simulations Reproduce Individual Halo Properties?}\",\n      journal = {\\apj},\n     keywords = {galaxies: formation, methods: numerical, Astrophysics - Cosmology and Nongalactic Astrophysics},\n         year = 2010,\n        month = mar,\n       volume = {711},\n       number = {2},\n        pages = {1198-1207},\n          doi = {10.1088/0004-637X/711/2/1198},\narchivePrefix = {arXiv},\n       eprint = {1001.5037},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2010ApJ...711.1198T},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..369N/abstract",
@@ -137,7 +141,8 @@
     "title": "Gas in simulations of high-redshift galaxies and minihaloes",
     "updatedAt": "2026-08-31",
     "volume": "399",
-    "year": 2009
+    "year": 2009,
+    "bibtex": "@ARTICLE{2009MNRAS.399..369N,\n       author = {{Naoz}, Smadar and {Barkana}, Rennan and {Mesinger}, Andrei},\n        title = \"{Gas in simulations of high-redshift galaxies and minihaloes}\",\n      journal = {\\mnras},\n     keywords = {galaxies: high-redshift, cosmology: theory, galaxies: formation, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},\n         year = 2009,\n        month = oct,\n       volume = {399},\n       number = {1},\n        pages = {369-376},\n          doi = {10.1111/j.1365-2966.2009.15282.x},\narchivePrefix = {arXiv},\n       eprint = {0906.0349},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..369N},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/1998ApJ...495...80B/abstract",
@@ -165,7 +170,8 @@
     "title": "Statistical Properties of X-Ray Clusters: Analytic and Numerical Comparisons",
     "updatedAt": "2026-08-31",
     "volume": "495",
-    "year": 1998
+    "year": 1998,
+    "bibtex": "@ARTICLE{1998ApJ...495...80B,\n       author = {{Bryan}, Greg L. and {Norman}, Michael L.},\n        title = \"{Statistical Properties of X-Ray Clusters: Analytic and Numerical Comparisons}\",\n      journal = {\\apj},\n     keywords = {GALAXIES: CLUSTERS: GENERAL, METHODS: NUMERICAL, X-RAYS: GALAXIES, Galaxies: Clusters: General, Methods: Numerical, X-Rays: Galaxies, Astrophysics},\n         year = 1998,\n        month = mar,\n       volume = {495},\n       number = {1},\n        pages = {80-99},\n          doi = {10.1086/305262},\narchivePrefix = {arXiv},\n       eprint = {astro-ph/9710107},\n primaryClass = {astro-ph},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/1998ApJ...495...80B},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2008MNRAS.391.1940M/abstract",
@@ -193,7 +199,8 @@
     "title": "Concentration, spin and shape of dark matter haloes as a function of the cosmological model: WMAP1, WMAP3 and WMAP5 results",
     "updatedAt": "2026-08-31",
     "volume": "391",
-    "year": 2008
+    "year": 2008,
+    "bibtex": "@ARTICLE{2008MNRAS.391.1940M,\n       author = {{Macci{\\`o}}, Andrea V. and {Dutton}, Aaron A. and {van den Bosch}, Frank C.},\n        title = \"{Concentration, spin and shape of dark matter haloes as a function of the cosmological model: WMAP1, WMAP3 and WMAP5 results}\",\n      journal = {\\mnras},\n     keywords = {gravitation, methods: N-body simulation, methods: numerical, galaxies: haloes, cosmology: theory, dark matter, Astrophysics},\n         year = 2008,\n        month = dec,\n       volume = {391},\n       number = {4},\n        pages = {1940-1954},\n          doi = {10.1111/j.1365-2966.2008.14029.x},\narchivePrefix = {arXiv},\n       eprint = {0805.1926},\n primaryClass = {astro-ph},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2008MNRAS.391.1940M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/1997ApJ...490..493N/abstract",
@@ -221,7 +228,8 @@
     "title": "A Universal Density Profile from Hierarchical Clustering",
     "updatedAt": "2026-08-31",
     "volume": "490",
-    "year": 1997
+    "year": 1997,
+    "bibtex": "@ARTICLE{1997ApJ...490..493N,\n       author = {{Navarro}, Julio F. and {Frenk}, Carlos S. and {White}, Simon D.~M.},\n        title = \"{A Universal Density Profile from Hierarchical Clustering}\",\n      journal = {\\apj},\n     keywords = {Cosmology: Theory, Cosmology: Dark Matter, Galaxies: Halos, Methods: Numerical, Astrophysics},\n         year = 1997,\n        month = dec,\n       volume = {490},\n       number = {2},\n        pages = {493-508},\n          doi = {10.1086/304888},\narchivePrefix = {arXiv},\n       eprint = {astro-ph/9611107},\n primaryClass = {astro-ph},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/1997ApJ...490..493N},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.3808M/abstract",
@@ -249,7 +257,8 @@
     "title": "A two-phase model of galaxy formation: I. The growth of galaxies and supermassive black holes",
     "updatedAt": "2026-08-31",
     "volume": "532",
-    "year": 2024
+    "year": 2024,
+    "bibtex": "@ARTICLE{2024MNRAS.532.3808M,\n       author = {{Mo}, Houjun and {Chen}, Yangyao and {Wang}, Huiyuan},\n        title = \"{A two-phase model of galaxy formation: I. The growth of galaxies and supermassive black holes}\",\n      journal = {\\mnras},\n     keywords = {Astrophysics - Astrophysics of Galaxies},\n         year = 2024,\n        month = aug,\n       volume = {532},\n       number = {4},\n        pages = {3808-3838},\n          doi = {10.1093/mnras/stae1727},\narchivePrefix = {arXiv},\n       eprint = {2311.05030},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.3808M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.4340C/abstract",
@@ -277,7 +286,8 @@
     "title": "A two-phase model of galaxy formation - II. The size-mass relation of dynamically hot galaxies",
     "updatedAt": "2026-08-31",
     "volume": "532",
-    "year": 2024
+    "year": 2024,
+    "bibtex": "@ARTICLE{2024MNRAS.532.4340C,\n       author = {{Chen}, Yangyao and {Mo}, Houjun and {Wang}, Huiyuan},\n        title = \"{A two-phase model of galaxy formation - II. The size-mass relation of dynamically hot galaxies}\",\n      journal = {\\mnras},\n     keywords = {Astrophysics - Astrophysics of Galaxies},\n         year = 2024,\n        month = aug,\n       volume = {532},\n       number = {4},\n        pages = {4340-4349},\n          doi = {10.1093/mnras/stae1757},\narchivePrefix = {arXiv},\n       eprint = {2311.11713},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.4340C},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025MNRAS.540.1235C/abstract",
@@ -305,7 +315,8 @@
     "title": "A two-phase model of galaxy formation: III. The formation of globular clusters",
     "updatedAt": "2026-08-31",
     "volume": "540",
-    "year": 2025
+    "year": 2025,
+    "bibtex": "@ARTICLE{2025MNRAS.540.1235C,\n       author = {{Chen}, Yangyao and {Mo}, Houjun and {Wang}, Huiyuan},\n        title = \"{A two-phase model of galaxy formation: III. The formation of globular clusters}\",\n      journal = {\\mnras},\n     keywords = {ISM: clouds, globular clusters: general, galaxies: formation, galaxies: haloes, galaxies: high-redshift, Astrophysics of Galaxies},\n         year = 2025,\n        month = jun,\n       volume = {540},\n       number = {1},\n        pages = {1235-1271},\n          doi = {10.1093/mnras/staf791},\narchivePrefix = {arXiv},\n       eprint = {2405.18735},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025MNRAS.540.1235C},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025arXiv250903283C/abstract",
@@ -333,7 +344,8 @@
     "title": "A two-phase model of galaxy formation: IV. Seeding and growing supermassive black holes in dark matter halos",
     "updatedAt": "2026-08-31",
     "volume": "",
-    "year": 2025
+    "year": 2025,
+    "bibtex": "@ARTICLE{2025arXiv250903283C,\n       author = {{Chen}, Yangyao and {Mo}, Houjun and {Wang}, Huiyuan},\n        title = \"{A two-phase model of galaxy formation: IV. Seeding and growing supermassive black holes in dark matter halos}\",\n      journal = {arXiv e-prints},\n     keywords = {Astrophysics of Galaxies, Cosmology and Nongalactic Astrophysics, Solar and Stellar Astrophysics},\n         year = 2025,\n        month = sep,\n          eid = {arXiv:2509.03283},\n        pages = {arXiv:2509.03283},\n          doi = {10.48550/arXiv.2509.03283},\narchivePrefix = {arXiv},\n       eprint = {2509.03283},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025arXiv250903283C},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2014ApJ...785...71G/abstract",
@@ -361,7 +373,8 @@
     "title": "Co-evolution of Galactic Nuclei and Globular Cluster Systems",
     "updatedAt": "2026-08-31",
     "volume": "785",
-    "year": 2014
+    "year": 2014,
+    "bibtex": "@ARTICLE{2014ApJ...785...71G,\n       author = {{Gnedin}, Oleg Y. and {Ostriker}, Jeremiah P. and {Tremaine}, Scott},\n        title = \"{Co-evolution of Galactic Nuclei and Globular Cluster Systems}\",\n      journal = {\\apj},\n     keywords = {galaxies: evolution, galaxies: formation, galaxies: nuclei, galaxies: star clusters: general, globular clusters: general, Astrophysics - Cosmology and Nongalactic Astrophysics},\n         year = 2014,\n        month = apr,\n       volume = {785},\n       number = {1},\n          eid = {71},\n        pages = {71},\n          doi = {10.1088/0004-637X/785/1/71},\narchivePrefix = {arXiv},\n       eprint = {1308.0021},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2014ApJ...785...71G},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024OJAp....7E..23C/abstract",
@@ -389,7 +402,8 @@
     "title": "Galaxy assembly revealed by globular clusters",
     "updatedAt": "2026-08-31",
     "volume": "7",
-    "year": 2024
+    "year": 2024,
+    "bibtex": "@ARTICLE{2024OJAp....7E..23C,\n       author = {{Chen}, Yingtian and {Gnedin}, Oleg Y.},\n        title = \"{Galaxy assembly revealed by globular clusters}\",\n      journal = {The Open Journal of Astrophysics},\n     keywords = {Astrophysics - Astrophysics of Galaxies},\n         year = 2024,\n        month = mar,\n       volume = {7},\n          eid = {23},\n        pages = {23},\n          doi = {10.33232/001c.116169},\narchivePrefix = {arXiv},\n       eprint = {2401.17420},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024OJAp....7E..23C},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2019ApJ...871L...8F/abstract",
@@ -417,7 +431,8 @@
     "title": "Millisecond Pulsars and the Gamma-Ray Excess in Andromeda",
     "updatedAt": "2026-08-31",
     "volume": "871",
-    "year": 2019
+    "year": 2019,
+    "bibtex": "@ARTICLE{2019ApJ...871L...8F,\n       author = {{Fragione}, Giacomo and {Antonini}, Fabio and {Gnedin}, Oleg Y.},\n        title = \"{Millisecond Pulsars and the Gamma-Ray Excess in Andromeda}\",\n      journal = {\\apjl},\n         year = 2019,\n        month = jan,\n       volume = {871},\n        pages = {L8},\n          doi = {10.3847/2041-8213/aafc62},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJ...871L...8F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2014ApJ...796...10L/abstract",
@@ -445,7 +460,8 @@
     "title": "Modeling the Formation of Globular Cluster Systems in the Virgo Cluster",
     "updatedAt": "2026-08-31",
     "volume": "796",
-    "year": 2014
+    "year": 2014,
+    "bibtex": "@ARTICLE{2014ApJ...796...10L,\n       author = {{Li}, Hui and {Gnedin}, Oleg Y.},\n        title = \"{Modeling the Formation of Globular Cluster Systems in the Virgo Cluster}\",\n      journal = {\\apj},\n     keywords = {galaxies: formation, galaxies: star clusters: general, globular clusters: general, Astrophysics - Astrophysics of Galaxies},\n         year = 2014,\n        month = nov,\n       volume = {796},\n       number = {1},\n          eid = {10},\n        pages = {10},\n          doi = {10.1088/0004-637X/796/1/10},\narchivePrefix = {arXiv},\n       eprint = {1405.0763},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2014ApJ...796...10L},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4736C/abstract",
@@ -473,7 +489,8 @@
     "title": "Modeling the kinematics of globular cluster systems",
     "updatedAt": "2026-08-31",
     "volume": "514",
-    "year": 2022
+    "year": 2022,
+    "bibtex": "@ARTICLE{2022MNRAS.514.4736C,\n       author = {{Chen}, Yingtian and {Gnedin}, Oleg Y.},\n        title = \"{Modeling the kinematics of globular cluster systems}\",\n      journal = {\\mnras},\n     keywords = {galaxies: evolution, galaxies: formation, galaxies: star clusters: general, Astrophysics - Astrophysics of Galaxies},\n         year = 2022,\n        month = aug,\n       volume = {514},\n       number = {4},\n        pages = {4736-4755},\n          doi = {10.1093/mnras/stac1651},\narchivePrefix = {arXiv},\n       eprint = {2203.00599},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4736C},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2010ApJ...718.1266M/abstract",
@@ -501,7 +518,8 @@
     "title": "Modeling the Metallicity Distribution of Globular Clusters",
     "updatedAt": "2026-08-31",
     "volume": "718",
-    "year": 2010
+    "year": 2010,
+    "bibtex": "@ARTICLE{2010ApJ...718.1266M,\n       author = {{Muratov}, Alexander L. and {Gnedin}, Oleg Y.},\n        title = \"{Modeling the Metallicity Distribution of Globular Clusters}\",\n      journal = {\\apj},\n     keywords = {galaxies: formation, galaxies: star clusters: general, globular clusters: general, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},\n         year = 2010,\n        month = aug,\n       volume = {718},\n       number = {2},\n        pages = {1266-1288},\n          doi = {10.1088/0004-637X/718/2/1266},\narchivePrefix = {arXiv},\n       eprint = {1002.1325},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2010ApJ...718.1266M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.5638C/abstract",
@@ -529,7 +547,8 @@
     "title": "Formation of globular clusters in dwarf galaxies of the Local Group",
     "updatedAt": "2026-08-31",
     "volume": "522",
-    "year": 2023
+    "year": 2023,
+    "bibtex": "@ARTICLE{2023MNRAS.522.5638C,\n       author = {{Chen}, Yingtian and {Gnedin}, Oleg Y.},\n        title = \"{Formation of globular clusters in dwarf galaxies of the Local Group}\",\n      journal = {\\mnras},\n     keywords = {globular clusters: general, galaxies: evolution, galaxies: formation, Local Group, galaxies: star clusters: general, Astrophysics - Astrophysics of Galaxies},\n         year = 2023,\n        month = jul,\n       volume = {522},\n       number = {4},\n        pages = {5638-5653},\n          doi = {10.1093/mnras/stad1328},\narchivePrefix = {arXiv},\n       eprint = {2301.08218},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.5638C},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.486..331C/abstract",
@@ -557,7 +576,8 @@
     "title": "Formation of globular cluster systems - II. Impact of the cut-off of the cluster initial mass function",
     "updatedAt": "2026-08-31",
     "volume": "486",
-    "year": 2019
+    "year": 2019,
+    "bibtex": "@ARTICLE{2019MNRAS.486..331C,\n       author = {{Choksi}, Nick and {Gnedin}, Oleg Y.},\n        title = \"{Formation of globular cluster systems - II. Impact of the cut-off of the cluster initial mass function}\",\n      journal = {\\mnras},\n     keywords = {globular clusters: general, galaxies: formation, galaxies: star clusters: general, Astrophysics - Astrophysics of Galaxies},\n         year = 2019,\n        month = jun,\n       volume = {486},\n       number = {1},\n        pages = {331-343},\n          doi = {10.1093/mnras/stz811},\narchivePrefix = {arXiv},\n       eprint = {1810.01888},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.486..331C},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.2343C/abstract",
@@ -585,7 +605,8 @@
     "title": "Formation of globular cluster systems: from dwarf galaxies to giants",
     "updatedAt": "2026-08-31",
     "volume": "480",
-    "year": 2018
+    "year": 2018,
+    "bibtex": "@ARTICLE{2018MNRAS.480.2343C,\n       author = {{Choksi}, Nick and {Gnedin}, Oleg Y. and {Li}, Hui},\n        title = \"{Formation of globular cluster systems: from dwarf galaxies to giants}\",\n      journal = {\\mnras},\n     keywords = {globular clusters: general, galaxies: formation, galaxies: star clusters: general, Astrophysics - Astrophysics of Galaxies},\n         year = 2018,\n        month = oct,\n       volume = {480},\n       number = {2},\n        pages = {2343-2356},\n          doi = {10.1093/mnras/sty1952},\narchivePrefix = {arXiv},\n       eprint = {1801.03515},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.2343C},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.3692C/abstract",
@@ -613,7 +634,8 @@
     "title": "Catalogue of model star clusters in the Milky Way and M31 galaxies",
     "updatedAt": "2026-08-31",
     "volume": "527",
-    "year": 2024
+    "year": 2024,
+    "bibtex": "@ARTICLE{2024MNRAS.527.3692C,\n       author = {{Chen}, Yingtian and {Gnedin}, Oleg Y.},\n        title = \"{Catalogue of model star clusters in the Milky Way and M31 galaxies}\",\n      journal = {\\mnras},\n     keywords = {Galaxy: formation - globular clusters: general, galaxies: individual: M31 - galaxies: star clusters: general, Astrophysics - Astrophysics of Galaxies},\n         year = 2024,\n        month = jan,\n       volume = {527},\n       number = {2},\n        pages = {3692-3708},\n          doi = {10.1093/mnras/stad3345},\narchivePrefix = {arXiv},\n       eprint = {2309.13374},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.3692C},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.5409C/abstract",
@@ -641,7 +663,8 @@
     "title": "Origins of scaling relations of globular cluster systems",
     "updatedAt": "2026-08-31",
     "volume": "488",
-    "year": 2019
+    "year": 2019,
+    "bibtex": "@ARTICLE{2019MNRAS.488.5409C,\n       author = {{Choksi}, Nick and {Gnedin}, Oleg Y.},\n        title = \"{Origins of scaling relations of globular cluster systems}\",\n      journal = {\\mnras},\n     keywords = {globular clusters: general, galaxies: formation, galaxies: star clusters: general, Astrophysics - Astrophysics of Galaxies},\n         year = 2019,\n        month = oct,\n       volume = {488},\n       number = {4},\n        pages = {5409-5419},\n          doi = {10.1093/mnras/stz2097},\narchivePrefix = {arXiv},\n       eprint = {1905.05199},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.5409C},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.7731G/abstract",
@@ -669,7 +692,8 @@
     "title": "Globular clusters contribute to the nuclear star clusters and galaxy centre γ-ray excess, moderated by galaxy assembly history",
     "updatedAt": "2026-08-31",
     "volume": "527",
-    "year": 2024
+    "year": 2024,
+    "bibtex": "@ARTICLE{2024MNRAS.527.7731G,\n       author = {{Gao}, Yuan and {Li}, Hui and {Zhang}, Xiaojia and et al.},\n        title = \"{Globular clusters contribute to the nuclear star clusters and galaxy centre {\\ensuremath{\\gamma}}-ray excess, moderated by galaxy assembly history}\",\n      journal = {\\mnras},\n     keywords = {pulsars: general, Galaxy: centre, globular clusters: general, galaxies: evolution, gamma-rays: galaxies, Astrophysics - Astrophysics of Galaxies},\n         year = 2024,\n        month = jan,\n       volume = {527},\n       number = {3},\n        pages = {7731-7742},\n          doi = {10.1093/mnras/stad3585},\narchivePrefix = {arXiv},\n       eprint = {2311.17071},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.7731G},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.3196P/abstract",
@@ -697,7 +721,8 @@
     "title": "First results from the TNG50 simulation: the evolution of stellar and gaseous discs across cosmic time",
     "updatedAt": "2026-08-31",
     "volume": "490",
-    "year": 2019
+    "year": 2019,
+    "bibtex": "@ARTICLE{2019MNRAS.490.3196P,\n       author = {{Pillepich}, Annalisa and {Nelson}, Dylan and {Springel}, Volker and et al.},\n        title = \"{First results from the TNG50 simulation: the evolution of stellar and gaseous discs across cosmic time}\",\n      journal = {\\mnras},\n         year = 2019,\n        month = dec,\n       volume = {490},\n        pages = {3196},\n          doi = {10.1093/mnras/stz2338},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.3196P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.3234N/abstract",
@@ -725,7 +750,8 @@
     "title": "First results from the TNG50 simulation: galactic outflows driven by supernovae and black hole feedback",
     "updatedAt": "2026-08-31",
     "volume": "490",
-    "year": 2019
+    "year": 2019,
+    "bibtex": "@ARTICLE{2019MNRAS.490.3234N,\n       author = {{Nelson}, Dylan and {Pillepich}, Annalisa and {Springel}, Volker and et al.},\n        title = \"{First results from the TNG50 simulation: galactic outflows driven by supernovae and black hole feedback}\",\n      journal = {\\mnras},\n     keywords = {galaxies: evolution, galaxies: formation, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - High Energy Astrophysical Phenomena},\n         year = 2019,\n        month = dec,\n       volume = {490},\n       number = {3},\n        pages = {3234-3261},\n          doi = {10.1093/mnras/stz2306},\narchivePrefix = {arXiv},\n       eprint = {1902.05554},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.3234N},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.5113M/abstract",
@@ -753,7 +779,8 @@
     "title": "First results from the IllustrisTNG simulations: radio haloes and magnetic fields",
     "updatedAt": "2026-08-31",
     "volume": "480",
-    "year": 2018
+    "year": 2018,
+    "bibtex": "@ARTICLE{2018MNRAS.480.5113M,\n       author = {{Marinacci}, Federico and {Vogelsberger}, Mark and {Pakmor}, R{\\\"u}diger and et al.},\n        title = \"{First results from the IllustrisTNG simulations: radio haloes and magnetic fields}\",\n      journal = {\\mnras},\n     keywords = {magnetic fields, MHD, methods: numerical, galaxies: clusters: general, cosmology: theory, radio continuum: general, Astrophysics - Cosmology and Nongalactic Astrophysics},\n         year = 2018,\n        month = nov,\n       volume = {480},\n       number = {4},\n        pages = {5113-5139},\n          doi = {10.1093/mnras/sty2206},\narchivePrefix = {arXiv},\n       eprint = {1707.03396},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.5113M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1206N/abstract",
@@ -781,7 +808,8 @@
     "title": "First results from the IllustrisTNG simulations: a tale of two elements - chemical evolution of magnesium and europium",
     "updatedAt": "2026-08-31",
     "volume": "477",
-    "year": 2018
+    "year": 2018,
+    "bibtex": "@ARTICLE{2018MNRAS.477.1206N,\n       author = {{Naiman}, Jill P. and {Pillepich}, Annalisa and {Springel}, Volker and et al.},\n        title = \"{First results from the IllustrisTNG simulations: a tale of two elements - chemical evolution of magnesium and europium}\",\n      journal = {\\mnras},\n     keywords = {methods: numerical, Galaxy: formation, cosmology: theory, Astrophysics - Astrophysics of Galaxies},\n         year = 2018,\n        month = jun,\n       volume = {477},\n       number = {1},\n        pages = {1206-1224},\n          doi = {10.1093/mnras/sty618},\narchivePrefix = {arXiv},\n       eprint = {1707.03401},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1206N},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..624N/abstract",
@@ -809,7 +837,8 @@
     "title": "First results from the IllustrisTNG simulations: the galaxy colour bimodality",
     "updatedAt": "2026-08-31",
     "volume": "475",
-    "year": 2018
+    "year": 2018,
+    "bibtex": "@ARTICLE{2018MNRAS.475..624N,\n       author = {{Nelson}, Dylan and {Pillepich}, Annalisa and {Springel}, Volker and et al.},\n        title = \"{First results from the IllustrisTNG simulations: the galaxy colour bimodality}\",\n      journal = {\\mnras},\n         year = 2018,\n        month = mar,\n       volume = {475},\n        pages = {624},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..624N},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..676S/abstract",
@@ -837,7 +866,8 @@
     "title": "First results from the IllustrisTNG simulations: matter and galaxy clustering",
     "updatedAt": "2026-08-31",
     "volume": "475",
-    "year": 2018
+    "year": 2018,
+    "bibtex": "@ARTICLE{2018MNRAS.475..676S,\n       author = {{Springel}, Volker and {Pakmor}, R{\\\"u}diger and {Pillepich}, Annalisa and et al.},\n        title = \"{First results from the IllustrisTNG simulations: matter and galaxy clustering}\",\n      journal = {\\mnras},\n     keywords = {methods: numerical, galaxy formation, large-scale structure of Universe, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},\n         year = 2018,\n        month = mar,\n       volume = {475},\n       number = {1},\n        pages = {676-698},\n          doi = {10.1093/mnras/stx3304},\narchivePrefix = {arXiv},\n       eprint = {1707.03397},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..676S},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..648P/abstract",
@@ -865,7 +895,8 @@
     "title": "First results from the IllustrisTNG simulations: the stellar mass content of groups and clusters of galaxies",
     "updatedAt": "2026-08-31",
     "volume": "475",
-    "year": 2018
+    "year": 2018,
+    "bibtex": "@ARTICLE{2018MNRAS.475..648P,\n       author = {{Pillepich}, Annalisa and {Nelson}, Dylan and {Hernquist}, Lars and et al.},\n        title = \"{First results from the IllustrisTNG simulations: the stellar mass content of groups and clusters of galaxies}\",\n      journal = {\\mnras},\n         year = 2018,\n        month = mar,\n       volume = {475},\n        pages = {648},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..648P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024Sci...384.1488F/abstract",
@@ -893,7 +924,8 @@
     "title": "Simulations predict intermediate-mass black hole formation in globular clusters",
     "updatedAt": "2026-08-31",
     "volume": "384",
-    "year": 2024
+    "year": 2024,
+    "bibtex": "@ARTICLE{2024Sci...384.1488F,\n       author = {{Fujii}, Michiko S. and {Wang}, Long and {Tanikawa}, Ataru and et al.},\n        title = \"{Simulations predict intermediate-mass black hole formation in globular clusters}\",\n      journal = {Science},\n         year = 2024,\n        month = jun,\n       volume = {384},\n        pages = {1488},\n          doi = {10.1126/science.adi4211},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024Sci...384.1488F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2007PASJ...59.1095F/abstract",
@@ -921,7 +953,8 @@
     "title": "BRIDGE: A Direct-Tree Hybrid N-Body Algorithm for Fully Self-Consistent Simulations of Star Clusters and Their Parent Galaxies",
     "updatedAt": "2026-08-31",
     "volume": "59",
-    "year": 2007
+    "year": 2007,
+    "bibtex": "@ARTICLE{2007PASJ...59.1095F,\n       author = {{Fujii}, Michiko and {Iwasawa}, Masaki and {Funato}, Yoko and et al.},\n        title = \"{BRIDGE: A Direct-Tree Hybrid N-Body Algorithm for Fully Self-Consistent Simulations of Star Clusters and Their Parent Galaxies}\",\n      journal = {\\pasj},\n         year = 2007,\n        month = dec,\n       volume = {59},\n        pages = {1095},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2007PASJ...59.1095F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025ApJ...980L..25H/abstract",
@@ -949,7 +982,8 @@
     "title": "SIRIUS: Identifying Metal-poor Stars Enriched by a Single Supernova in a Dwarf Galaxy Cosmological Zoom-in Simulation Resolving Individual Massive Stars",
     "updatedAt": "2026-08-31",
     "volume": "980",
-    "year": 2025
+    "year": 2025,
+    "bibtex": "@ARTICLE{2025ApJ...980L..25H,\n       author = {{Hirai}, Yutaka and {Saitoh}, Takayuki R. and {Fujii}, Michiko S. and et al.},\n        title = \"{SIRIUS: Identifying Metal-poor Stars Enriched by a Single Supernova in a Dwarf Galaxy Cosmological Zoom-in Simulation Resolving Individual Massive Stars}\",\n      journal = {\\apjl},\n         year = 2025,\n        month = feb,\n       volume = {980},\n        pages = {L25},\n          doi = {10.3847/2041-8213/adaf95},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025ApJ...980L..25H},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1074F/abstract",
@@ -977,7 +1011,8 @@
     "title": "SIRIUS project. III. Star-by-star simulations of star cluster formation using a direct N-body integrator with stellar feedback",
     "updatedAt": "2026-08-31",
     "volume": "73",
-    "year": 2021
+    "year": 2021,
+    "bibtex": "@ARTICLE{2021PASJ...73.1074F,\n       author = {{Fujii}, Michiko S. and {Saitoh}, Takayuki R. and {Hirai}, Yutaka and et al.},\n        title = \"{SIRIUS project. III. Star-by-star simulations of star cluster formation using a direct N-body integrator with stellar feedback}\",\n      journal = {\\pasj},\n         year = 2021,\n        month = aug,\n       volume = {73},\n        pages = {1074},\n          doi = {10.1093/pasj/psab061},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1074F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1036H/abstract",
@@ -1005,7 +1040,8 @@
     "title": "SIRIUS project. I. Star formation models for star-by-star simulations of star clusters and galaxy formation",
     "updatedAt": "2026-08-31",
     "volume": "73",
-    "year": 2021
+    "year": 2021,
+    "bibtex": "@ARTICLE{2021PASJ...73.1036H,\n       author = {{Hirai}, Yutaka and {Fujii}, Michiko S. and {Saitoh}, Takayuki R.},\n        title = \"{SIRIUS project. I. Star formation models for star-by-star simulations of star clusters and galaxy formation}\",\n      journal = {\\pasj},\n         year = 2021,\n        month = aug,\n       volume = {73},\n        pages = {1036},\n          doi = {10.1093/pasj/psab038},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1036H},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1057F/abstract",
@@ -1033,7 +1069,8 @@
     "title": "SIRIUS project. II. A new tree-direct hybrid code for smoothed particle hydrodynamics/N-body simulations of star clusters",
     "updatedAt": "2026-08-31",
     "volume": "73",
-    "year": 2021
+    "year": 2021,
+    "bibtex": "@ARTICLE{2021PASJ...73.1057F,\n       author = {{Fujii}, Michiko S. and {Saitoh}, Takayuki R. and {Wang}, Long and et al.},\n        title = \"{SIRIUS project. II. A new tree-direct hybrid code for smoothed particle hydrodynamics/N-body simulations of star clusters}\",\n      journal = {\\pasj},\n         year = 2021,\n        month = aug,\n       volume = {73},\n        pages = {1057},\n          doi = {10.1093/pasj/psab037},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1057F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.514...43F/abstract",
@@ -1061,7 +1098,8 @@
     "title": "SIRIUS Project - V. Formation of off-centre ionized bubbles associated with Orion Nebula Cluster",
     "updatedAt": "2026-08-31",
     "volume": "514",
-    "year": 2022
+    "year": 2022,
+    "bibtex": "@ARTICLE{2022MNRAS.514...43F,\n       author = {{Fujii}, Michiko S. and {Hattori}, Kohei and {Wang}, Long and et al.},\n        title = \"{SIRIUS Project - V. Formation of off-centre ionized bubbles associated with Orion Nebula Cluster}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = jul,\n       volume = {514},\n        pages = {43},\n          doi = {10.1093/mnras/stac808},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.514...43F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.2513F/abstract",
@@ -1089,7 +1127,8 @@
     "title": "SIRIUS Project - IV. The formation history of the Orion Nebula Cluster driven by clump mergers",
     "updatedAt": "2026-08-31",
     "volume": "514",
-    "year": 2022
+    "year": 2022,
+    "bibtex": "@ARTICLE{2022MNRAS.514.2513F,\n       author = {{Fujii}, Michiko S. and {Wang}, Long and {Hirai}, Yutaka and et al.},\n        title = \"{SIRIUS Project - IV. The formation history of the Orion Nebula Cluster driven by clump mergers}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = aug,\n       volume = {514},\n        pages = {2513},\n          doi = {10.1093/mnras/stac1496},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.2513F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.475.5570H/abstract",
@@ -1117,7 +1156,8 @@
     "title": "Time-symmetric integration in astrophysics",
     "updatedAt": "2026-08-31",
     "volume": "475",
-    "year": 2018
+    "year": 2018,
+    "bibtex": "@ARTICLE{2018MNRAS.475.5570H,\n       author = {{Hernandez}, David M. and {Bertschinger}, Edmund},\n        title = \"{Time-symmetric integration in astrophysics}\",\n      journal = {\\mnras},\n         year = 2018,\n        month = apr,\n       volume = {475},\n        pages = {5570},\n          doi = {10.1093/mnras/sty184},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.475.5570H},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.452.1934H/abstract",
@@ -1145,7 +1185,8 @@
     "title": "Symplectic integration for the collisional gravitational N-body problem",
     "updatedAt": "2026-08-31",
     "volume": "452",
-    "year": 2015
+    "year": 2015,
+    "bibtex": "@ARTICLE{2015MNRAS.452.1934H,\n       author = {{Hernandez}, David M. and {Bertschinger}, Edmund},\n        title = \"{Symplectic integration for the collisional gravitational N-body problem}\",\n      journal = {\\mnras},\n         year = 2015,\n        month = sep,\n       volume = {452},\n        pages = {1934},\n          doi = {10.1093/mnras/stv1439},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2015MNRAS.452.1934H},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4639H/abstract",
@@ -1173,7 +1214,8 @@
     "title": "Switching integrators reversibly in the astrophysical N-body problem",
     "updatedAt": "2026-08-31",
     "volume": "522",
-    "year": 2023
+    "year": 2023,
+    "bibtex": "@ARTICLE{2023MNRAS.522.4639H,\n       author = {{Hernandez}, David M. and {Dehnen}, Walter},\n        title = \"{Switching integrators reversibly in the astrophysical N-body problem}\",\n      journal = {\\mnras},\n         year = 2023,\n        month = jul,\n       volume = {522},\n        pages = {4639},\n          doi = {10.1093/mnras/stad657},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4639H},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag959S/abstract",
@@ -1201,7 +1243,8 @@
     "title": "Imladris: a detailed and flexible model for galaxy simulations with individual stars",
     "updatedAt": "2026-08-31",
     "volume": "549",
-    "year": 2026
+    "year": 2026,
+    "bibtex": "@ARTICLE{2026MNRAS.549ag959S,\n       author = {{Smith}, Matthew C.},\n        title = \"{Imladris: a detailed and flexible model for galaxy simulations with individual stars}\",\n      journal = {\\mnras},\n         year = 2026,\n        month = jul,\n       volume = {549},\n        pages = {stag959},\n          doi = {10.1093/mnras/stag959},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag959S},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..34V/abstract",
@@ -1229,7 +1272,8 @@
     "title": "Efficiency of black hole formation via collisions in stellar systems: Data analysis from simulations and observations",
     "updatedAt": "2026-08-31",
     "volume": "689",
-    "year": 2024
+    "year": 2024,
+    "bibtex": "@ARTICLE{2024A&A...689A..34V,\n       author = {{Vergara}, M. C. and {Schleicher}, D. R. G. and {Escala}, A. and et al.},\n        title = \"{Efficiency of black hole formation via collisions in stellar systems: Data analysis from simulations and observations}\",\n      journal = {\\aap},\n         year = 2024,\n        month = sep,\n       volume = {689},\n        pages = {A34},\n          doi = {10.1051/0004-6361/202449967},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024A&A...689A..34V},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4224V/abstract",
@@ -1257,7 +1301,8 @@
     "title": "Global instability by runaway collisions in nuclear stellar clusters: numerical tests of a route for massive black hole formation",
     "updatedAt": "2026-08-31",
     "volume": "522",
-    "year": 2023
+    "year": 2023,
+    "bibtex": "@ARTICLE{2023MNRAS.522.4224V,\n       author = {{Vergara}, M. C. and {Escala}, A. and {Schleicher}, D. R. G. and et al.},\n        title = \"{Global instability by runaway collisions in nuclear stellar clusters: numerical tests of a route for massive black hole formation}\",\n      journal = {\\mnras},\n         year = 2023,\n        month = jul,\n       volume = {522},\n        pages = {4224},\n          doi = {10.1093/mnras/stad1253},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4224V},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026A%26A...707A..71V/abstract",
@@ -1285,7 +1330,8 @@
     "title": "Efficient black hole seed formation in low-metallicity and dense stellar clusters with implications for JWST sources",
     "updatedAt": "2026-08-31",
     "volume": "707",
-    "year": 2026
+    "year": 2026,
+    "bibtex": "@ARTICLE{2026A&A...707A..71V,\n       author = {{Vergara}, M. C. and {Askar}, A. and {Flammini Dotti}, F. and et al.},\n        title = \"{Efficient black hole seed formation in low-metallicity and dense stellar clusters with implications for JWST sources}\",\n      journal = {\\aap},\n         year = 2026,\n        month = mar,\n       volume = {707},\n        pages = {A71},\n          doi = {10.1051/0004-6361/202556878},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026A&A...707A..71V},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026arXiv260825856D/abstract",
@@ -1313,7 +1359,8 @@
     "title": "Formation of Accretion Disks around Intermediate-Mass Black Holes in Ultra Compact Dwarf Galaxies and Nuclear Stellar Clusters",
     "updatedAt": "2026-08-31",
     "volume": "",
-    "year": 2026
+    "year": 2026,
+    "bibtex": "@ARTICLE{2026arXiv260825856D,\n       author = {{Darr}, Sebastian and {Bekki}, Kenji},\n        title = \"{Formation of Accretion Disks around Intermediate-Mass Black Holes in Ultra Compact Dwarf Galaxies and Nuclear Stellar Clusters}\",\n      journal = {arXiv e-prints},\n         year = 2026,\n        month = aug,\narchivePrefix = {arXiv},\n       eprint = {2608.25856},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026arXiv260825856D},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.4070W/abstract",
@@ -1341,7 +1388,8 @@
     "title": "NBODY6++GPU: ready for the gravitational million-body problem",
     "updatedAt": "2026-08-31",
     "volume": "450",
-    "year": 2015
+    "year": 2015,
+    "bibtex": "@ARTICLE{2015MNRAS.450.4070W,\n       author = {{Wang}, Long and {Spurzem}, Rainer and {Aarseth}, Sverre and et al.},\n        title = \"{NBODY6++GPU: ready for the gravitational million-body problem}\",\n      journal = {\\mnras},\n         year = 2015,\n        month = jul,\n       volume = {450},\n        pages = {4070},\n          doi = {10.1093/mnras/stv817},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.4070W},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.4060K/abstract",
@@ -1369,7 +1417,8 @@
     "title": "Preparing the next gravitational million-body simulations: evolution of single and binary stars in NBODY6++GPU, MOCCA, and MCLUSTER",
     "updatedAt": "2026-08-31",
     "volume": "511",
-    "year": 2022
+    "year": 2022,
+    "bibtex": "@ARTICLE{2022MNRAS.511.4060K,\n       author = {{Kamlah}, A. W. H. and {Leveque}, A. and {Spurzem}, R. and et al.},\n        title = \"{Preparing the next gravitational million-body simulations: evolution of single and binary stars in NBODY6++GPU, MOCCA, and MCLUSTER}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = apr,\n       volume = {511},\n        pages = {4060},\n          doi = {10.1093/mnras/stab3748},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.4060K},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026RAA....26a5009L/abstract",
@@ -1397,7 +1446,8 @@
     "title": "NbodyCP: A Direct N-body Simulation Code for Composite Stellar Populations of Single and Binary Star Clusters",
     "updatedAt": "2026-08-31",
     "volume": "26",
-    "year": 2026
+    "year": 2026,
+    "bibtex": "@ARTICLE{2026RAA....26a5009L,\n       author = {{Li}, Zhong-Mu and {Spurzem}, Rainer},\n        title = \"{NbodyCP: A Direct N-body Simulation Code for Composite Stellar Populations of Single and Binary Star Clusters}\",\n      journal = {\\raa},\n         year = 2026,\n        month = jan,\n       volume = {26},\n        pages = {015009},\n          doi = {10.1088/1674-4527/ae1ae8},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026RAA....26a5009L},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025arXiv251224299S/abstract",
@@ -1425,7 +1475,8 @@
     "title": "From Nbody1 to Nbody7: the Growth of Sverres Industry",
     "updatedAt": "2026-08-31",
     "volume": "",
-    "year": 2025
+    "year": 2025,
+    "bibtex": "@ARTICLE{2025arXiv251224299S,\n       author = {{Spurzem}, Rainer},\n        title = \"{From Nbody1 to Nbody7: the Growth of Sverres Industry}\",\n      journal = {arXiv e-prints},\n         year = 2025,\n        month = dec,\narchivePrefix = {arXiv},\n       eprint = {2512.24299},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025arXiv251224299S},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.3770R/abstract",
@@ -1453,7 +1504,8 @@
     "title": "FROST-CLUSTERS - I. Hierarchical star cluster assembly boosts intermediate-mass black hole formation",
     "updatedAt": "2026-08-31",
     "volume": "531",
-    "year": 2024
+    "year": 2024,
+    "bibtex": "@ARTICLE{2024MNRAS.531.3770R,\n       author = {{Rantala}, Antti and {Naab}, Thorsten and {Lahén}, Natalia},\n        title = \"{FROST-CLUSTERS - I. Hierarchical star cluster assembly boosts intermediate-mass black hole formation}\",\n      journal = {\\mnras},\n         year = 2024,\n        month = jul,\n       volume = {531},\n        pages = {3770},\n          doi = {10.1093/mnras/stae1413},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.3770R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025MNRAS.543.2130R/abstract",
@@ -1481,7 +1533,8 @@
     "title": "FROST-CLUSTERS ─ II. Massive stars, binaries, and triples boost supermassive black hole seed formation in assembling star clusters",
     "updatedAt": "2026-08-31",
     "volume": "543",
-    "year": 2025
+    "year": 2025,
+    "bibtex": "@ARTICLE{2025MNRAS.543.2130R,\n       author = {{Rantala}, Antti and {Lahén}, Natalia and {Naab}, Thorsten and et al.},\n        title = \"{FROST-CLUSTERS ─ II. Massive stars, binaries, and triples boost supermassive black hole seed formation in assembling star clusters}\",\n      journal = {\\mnras},\n         year = 2025,\n        month = nov,\n       volume = {543},\n        pages = {2130},\n          doi = {10.1093/mnras/staf1519},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025MNRAS.543.2130R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.5180R/abstract",
@@ -1509,7 +1562,8 @@
     "title": "BIFROST: simulating compact subsystems in star clusters using a hierarchical fourth-order forward symplectic integrator code",
     "updatedAt": "2026-08-31",
     "volume": "522",
-    "year": 2023
+    "year": 2023,
+    "bibtex": "@ARTICLE{2023MNRAS.522.5180R,\n       author = {{Rantala}, Antti and {Naab}, Thorsten and {Rizzuto}, Francesco Paolo and et al.},\n        title = \"{BIFROST: simulating compact subsystems in star clusters using a hierarchical fourth-order forward symplectic integrator code}\",\n      journal = {\\mnras},\n         year = 2023,\n        month = jul,\n       volume = {522},\n        pages = {5180},\n          doi = {10.1093/mnras/stad1360},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.5180R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.5546R/abstract",
@@ -1537,7 +1591,8 @@
     "title": "frost: a momentum-conserving CUDA implementation of a hierarchical fourth-order forward symplectic integrator",
     "updatedAt": "2026-08-31",
     "volume": "502",
-    "year": 2021
+    "year": 2021,
+    "bibtex": "@ARTICLE{2021MNRAS.502.5546R,\n       author = {{Rantala}, Antti and {Naab}, Thorsten and {Springel}, Volker},\n        title = \"{frost: a momentum-conserving CUDA implementation of a hierarchical fourth-order forward symplectic integrator}\",\n      journal = {\\mnras},\n         year = 2021,\n        month = apr,\n       volume = {502},\n        pages = {5546},\n          doi = {10.1093/mnras/stab057},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.5546R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag986R/abstract",
@@ -1565,7 +1620,8 @@
     "title": "FROST-CLUSTERS ─ III. Metallicity-dependent intermediate-mass black hole formation by runaway collisions in dense star clusters",
     "updatedAt": "2026-08-31",
     "volume": "549",
-    "year": 2026
+    "year": 2026,
+    "bibtex": "@ARTICLE{2026MNRAS.549ag986R,\n       author = {{Rantala}, Antti and {Naab}, Thorsten and {Lahén}, Natalia and et al.},\n        title = \"{FROST-CLUSTERS ─ III. Metallicity-dependent intermediate-mass black hole formation by runaway collisions in dense star clusters}\",\n      journal = {\\mnras},\n         year = 2026,\n        month = jul,\n       volume = {549},\n        pages = {stag986},\n          doi = {10.1093/mnras/stag986},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag986R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2010ApJ...712..833C/abstract",
@@ -1593,7 +1649,8 @@
     "title": "The Propagation of Uncertainties in Stellar Population Synthesis Modeling. III. Model Calibration, Comparison, and Evaluation",
     "updatedAt": "2026-08-31",
     "volume": "712",
-    "year": 2010
+    "year": 2010,
+    "bibtex": "@ARTICLE{2010ApJ...712..833C,\n       author = {{Conroy}, Charlie and {Gunn}, James E.},\n        title = \"{The Propagation of Uncertainties in Stellar Population Synthesis Modeling. III. Model Calibration, Comparison, and Evaluation}\",\n      journal = {\\apj},\n         year = 2010,\n        month = apr,\n       volume = {712},\n        pages = {833},\n          doi = {10.1088/0004-637X/712/2/833},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2010ApJ...712..833C},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024JOSS....9.6296B/abstract",
@@ -1621,7 +1678,8 @@
     "title": "Paicos: A Python package for analysis of (cosmological) simulations performed with Arepo",
     "updatedAt": "2026-08-31",
     "volume": "9",
-    "year": 2024
+    "year": 2024,
+    "bibtex": "@ARTICLE{2024JOSS....9.6296B,\n       author = {{Berlok}, Thomas and {Jlassi}, Léna and {Puchwein}, Ewald and et al.},\n        title = \"{Paicos: A Python package for analysis of (cosmological) simulations performed with Arepo}\",\n      journal = {The Journal of Open Source Software},\n         year = 2024,\n        month = apr,\n       volume = {9},\n        pages = {6296},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024JOSS....9.6296B},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2016MNRAS.455.1134P/abstract",
@@ -1649,7 +1707,8 @@
     "title": "Improving the convergence properties of the moving-mesh code AREPO",
     "updatedAt": "2026-08-31",
     "volume": "455",
-    "year": 2016
+    "year": 2016,
+    "bibtex": "@ARTICLE{2016MNRAS.455.1134P,\n       author = {{Pakmor}, Rüdiger and {Springel}, Volker and {Bauer}, Andreas and et al.},\n        title = \"{Improving the convergence properties of the moving-mesh code AREPO}\",\n      journal = {\\mnras},\n         year = 2016,\n        month = jan,\n       volume = {455},\n        pages = {1134},\n          doi = {10.1093/mnras/stv2380},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2016MNRAS.455.1134P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2011MNRAS.418.1392P/abstract",
@@ -1677,7 +1736,8 @@
     "title": "Magnetohydrodynamics on an unstructured moving grid",
     "updatedAt": "2026-08-31",
     "volume": "418",
-    "year": 2011
+    "year": 2011,
+    "bibtex": "@ARTICLE{2011MNRAS.418.1392P,\n       author = {{Pakmor}, Ruediger and {Bauer}, Andreas and {Springel}, Volker},\n        title = \"{Magnetohydrodynamics on an unstructured moving grid}\",\n      journal = {\\mnras},\n         year = 2011,\n        month = dec,\n       volume = {418},\n        pages = {1392},\n          doi = {10.1111/j.1365-2966.2011.19591.x},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2011MNRAS.418.1392P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2013MNRAS.432..176P/abstract",
@@ -1705,7 +1765,8 @@
     "title": "Simulations of magnetic fields in isolated disc galaxies",
     "updatedAt": "2026-08-31",
     "volume": "432",
-    "year": 2013
+    "year": 2013,
+    "bibtex": "@ARTICLE{2013MNRAS.432..176P,\n       author = {{Pakmor}, Rüdiger and {Springel}, Volker},\n        title = \"{Simulations of magnetic fields in isolated disc galaxies}\",\n      journal = {\\mnras},\n         year = 2013,\n        month = jun,\n       volume = {432},\n        pages = {176},\n          doi = {10.1093/mnras/stt428},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2013MNRAS.432..176P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2020ApJS..248...32W/abstract",
@@ -1733,7 +1794,8 @@
     "title": "The AREPO Public Code Release",
     "updatedAt": "2026-08-31",
     "volume": "248",
-    "year": 2020
+    "year": 2020,
+    "bibtex": "@ARTICLE{2020ApJS..248...32W,\n       author = {{Weinberger}, Rainer and {Springel}, Volker and {Pakmor}, Rüdiger},\n        title = \"{The AREPO Public Code Release}\",\n      journal = {\\apjs},\n         year = 2020,\n        month = jun,\n       volume = {248},\n        pages = {32},\n          doi = {10.3847/1538-4365/ab908c},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2020ApJS..248...32W},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2010MNRAS.401..791S/abstract",
@@ -1761,7 +1823,8 @@
     "title": "E pur si muove: Galilean-invariant cosmological hydrodynamical simulations on a moving mesh",
     "updatedAt": "2026-08-31",
     "volume": "401",
-    "year": 2010
+    "year": 2010,
+    "bibtex": "@ARTICLE{2010MNRAS.401..791S,\n       author = {{Springel}, Volker},\n        title = \"{E pur si muove: Galilean-invariant cosmological hydrodynamical simulations on a moving mesh}\",\n      journal = {\\mnras},\n         year = 2010,\n        month = jan,\n       volume = {401},\n        pages = {791},\n          doi = {10.1111/j.1365-2966.2009.15715.x},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2010MNRAS.401..791S},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1003..244F/abstract",
@@ -1789,7 +1852,8 @@
     "title": "A GLIMPSE of Intermediate Mass Black Holes in the Epoch of Reionization: Witnessing the Descendants of Direct Collapse?",
     "updatedAt": "2026-08-31",
     "volume": "1003",
-    "year": 2026
+    "year": 2026,
+    "bibtex": "@ARTICLE{2026ApJ..1003..244F,\n       author = {{Fei}, Qinyue and {Fujimoto}, Seiji and {Naidu}, Rohan P. and et al.},\n        title = \"{A GLIMPSE of Intermediate Mass Black Holes in the Epoch of Reionization: Witnessing the Descendants of Direct Collapse?}\",\n      journal = {\\apj},\n         year = 2026,\n        month = jun,\n       volume = {1003},\n        pages = {244},\n          doi = {10.3847/1538-4357/ae6248},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026ApJ..1003..244F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.2245L/abstract",
@@ -1817,7 +1881,8 @@
     "title": "Supermassive black holes are growing slowly by z 5",
     "updatedAt": "2026-08-31",
     "volume": "531",
-    "year": 2024
+    "year": 2024,
+    "bibtex": "@ARTICLE{2024MNRAS.531.2245L,\n       author = {{Lai}, Samuel and {Onken}, Christopher A. and {Wolf}, Christian and et al.},\n        title = \"{Supermassive black holes are growing slowly by z 5}\",\n      journal = {\\mnras},\n         year = 2024,\n        month = jun,\n       volume = {531},\n        pages = {2245},\n          doi = {10.1093/mnras/stae1301},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.2245L},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024ApJ...962..152H/abstract",
@@ -1845,7 +1910,8 @@
     "title": "Black Hole Mass and Eddington-ratio Distributions of Less-luminous Quasars at z ∼ 4 in the Subaru Hyper Suprime-Cam Wide Field",
     "updatedAt": "2026-08-31",
     "volume": "962",
-    "year": 2024
+    "year": 2024,
+    "bibtex": "@ARTICLE{2024ApJ...962..152H,\n       author = {{He}, Wanqiu and {Akiyama}, Masayuki and {Enoki}, Motohiro and et al.},\n        title = \"{Black Hole Mass and Eddington-ratio Distributions of Less-luminous Quasars at z ∼ 4 in the Subaru Hyper Suprime-Cam Wide Field}\",\n      journal = {\\apj},\n         year = 2024,\n        month = feb,\n       volume = {962},\n        pages = {152},\n          doi = {10.3847/1538-4357/ad1518},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024ApJ...962..152H},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.2659W/abstract",
@@ -1873,7 +1939,8 @@
     "title": "Demographics of z   6 quasars in the black hole mass-luminosity plane",
     "updatedAt": "2026-08-31",
     "volume": "517",
-    "year": 2022
+    "year": 2022,
+    "bibtex": "@ARTICLE{2022MNRAS.517.2659W,\n       author = {{Wu}, Jin and {Shen}, Yue and {Jiang}, Linhua and et al.},\n        title = \"{Demographics of z   6 quasars in the black hole mass-luminosity plane}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = dec,\n       volume = {517},\n        pages = {2659},\n          doi = {10.1093/mnras/stac2833},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.2659W},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024ApJ...963..129M/abstract",
@@ -1901,7 +1968,8 @@
     "title": "Little Red Dots: An Abundant Population of Faint Active Galactic Nuclei at z ∼ 5 Revealed by the EIGER and FRESCO JWST Surveys",
     "updatedAt": "2026-08-31",
     "volume": "963",
-    "year": 2024
+    "year": 2024,
+    "bibtex": "@ARTICLE{2024ApJ...963..129M,\n       author = {{Matthee}, Jorryt and {Naidu}, Rohan P. and {Brammer}, Gabriel and et al.},\n        title = \"{Little Red Dots: An Abundant Population of Faint Active Galactic Nuclei at z ∼ 5 Revealed by the EIGER and FRESCO JWST Surveys}\",\n      journal = {\\apj},\n         year = 2024,\n        month = mar,\n       volume = {963},\n        pages = {129},\n          doi = {10.3847/1538-4357/ad2345},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024ApJ...963..129M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025ApJ...986..165T/abstract",
@@ -1929,6 +1997,7 @@
     "title": "Broad-line AGNs at 3.5 < z < 6: The Black Hole Mass Function and a Connection with Little Red Dots",
     "updatedAt": "2026-08-31",
     "volume": "986",
-    "year": 2025
+    "year": 2025,
+    "bibtex": "@ARTICLE{2025ApJ...986..165T,\n       author = {{Taylor}, Anthony J. and {Finkelstein}, Steven L. and {Kocevski}, Dale D. and et al.},\n        title = \"{Broad-line AGNs at 3.5 < z < 6: The Black Hole Mass Function and a Connection with Little Red Dots}\",\n      journal = {\\apj},\n         year = 2025,\n        month = jun,\n       volume = {986},\n        pages = {165},\n          doi = {10.3847/1538-4357/add15b},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025ApJ...986..165T},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
   }
 ]
