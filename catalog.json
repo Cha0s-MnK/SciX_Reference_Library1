@@ -55,7 +55,211 @@
     "updatedAt": "2026-08-31",
     "volume": "2025",
     "year": 2025,
-    "bibtex": "@ARTICLE{2025JCAP...02..021A,\n       author = {{Adame}, A.~G. and {Aguilar}, J. and {Ahlen}, S. and et al.},\n        title = \"{DESI 2024 VI: cosmological constraints from the measurements of baryon acoustic oscillations}\",\n      journal = {\\jcap},\n     keywords = {baryon acoustic oscillations, cosmological parameters from LSS, dark energy experiments, neutrino masses from cosmology, Cosmology and Nongalactic Astrophysics},\n         year = 2025,\n        month = feb,\n       volume = {2025},\n       number = {2},\n          eid = {021},\n        pages = {021},\n          doi = {10.1088/1475-7516/2025/02/021},\narchivePrefix = {arXiv},\n       eprint = {2404.03002},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2025JCAP...02..021A,\n       author = {{Adame}, A.~G. and {Aguilar}, J. and {Ahlen}, S. and et al.},\n        title = \"{DESI 2024 VI: cosmological constraints from the measurements of baryon acoustic oscillations}\",\n      journal = {\\jcap},\n     keywords = {baryon acoustic oscillations, cosmological parameters from LSS, dark energy experiments, neutrino masses from cosmology, Cosmology and Nongalactic Astrophysics},\n         year = 2025,\n        month = feb,\n       volume = {2025},\n       number = {2},\n          eid = {021},\n        pages = {021},\n          doi = {10.1088/1475-7516/2025/02/021},\narchivePrefix = {arXiv},\n       eprint = {2404.03002},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Adame, A.G.",
+      "Aguilar, J.",
+      "Ahlen, S.",
+      "Alam, S.",
+      "Alexander, D.M.",
+      "Alvarez, M.",
+      "Alves, O.",
+      "Anand, A.",
+      "Andrade, U.",
+      "Armengaud, E.",
+      "Avila, S.",
+      "Aviles, A.",
+      "Awan, H.",
+      "Bahr-Kalus, B.",
+      "Bailey, S.",
+      "Baltay, C.",
+      "Bault, A.",
+      "Behera, J.",
+      "BenZvi, S.",
+      "Bera, A.",
+      "Beutler, F.",
+      "Bianchi, D.",
+      "Blake, C.",
+      "Blum, R.",
+      "Brieden, S.",
+      "Brodzeller, A.",
+      "Brooks, D.",
+      "Buckley-Geer, E.",
+      "Burtin, E.",
+      "Calderon, R.",
+      "Canning, R.",
+      "Carnero Rosell, A.",
+      "Cereskaite, R.",
+      "Cervantes-Cota, J.L.",
+      "Chabanier, S.",
+      "Chaussidon, E.",
+      "Chaves-Montero, J.",
+      "Chen, S.",
+      "Chen, X.",
+      "Claybaugh, T.",
+      "Cole, S.",
+      "Cuceu, A.",
+      "Davis, T.M.",
+      "Dawson, K.",
+      "de la Macorra, A.",
+      "de Mattia, A.",
+      "Deiosso, N.",
+      "Dey, A.",
+      "Dey, B.",
+      "Ding, Z.",
+      "Doel, P.",
+      "Edelstein, J.",
+      "Eftekharzadeh, S.",
+      "Eisenstein, D.J.",
+      "Elliott, A.",
+      "Fagrelius, P.",
+      "Fanning, K.",
+      "Ferraro, S.",
+      "Ereza, J.",
+      "Findlay, N.",
+      "Flaugher, B.",
+      "Font-Ribera, A.",
+      "Forero-Sánchez, D.",
+      "Forero-Romero, J.E.",
+      "Frenk, C.S.",
+      "Garcia-Quintero, C.",
+      "Gaztañaga, E.",
+      "Gil-Marín, H.",
+      "Gontcho, S.Gontcho A.",
+      "Gonzalez-Morales, A.X.",
+      "Gonzalez-Perez, V.",
+      "Gordon, C.",
+      "Green, D.",
+      "Gruen, D.",
+      "Gsponer, R.",
+      "Gutierrez, G.",
+      "Guy, J.",
+      "Hadzhiyska, B.",
+      "Hahn, C.",
+      "Hanif, M.M.S.",
+      "Herrera-Alcantar, H.K.",
+      "Honscheid, K.",
+      "Howlett, C.",
+      "Huterer, D.",
+      "Iršič, V.",
+      "Ishak, M.",
+      "Juneau, S.",
+      "Karaçaylı, N.G.",
+      "Kehoe, R.",
+      "Kent, S.",
+      "Kirkby, D.",
+      "Kremin, A.",
+      "Krolewski, A.",
+      "Lai, Y.",
+      "Lan, T.-W.",
+      "Landriau, M.",
+      "Lang, D.",
+      "Lasker, J.",
+      "Le Goff, J.M.",
+      "Le Guillou, L.",
+      "Leauthaud, A.",
+      "Levi, M.E.",
+      "Li, T.S.",
+      "Linder, E.",
+      "Lodha, K.",
+      "Magneville, C.",
+      "Manera, M.",
+      "Margala, D.",
+      "Martini, P.",
+      "Maus, M.",
+      "McDonald, P.",
+      "Medina-Varela, L.",
+      "Meisner, A.",
+      "Mena-Fernández, J.",
+      "Miquel, R.",
+      "Moon, J.",
+      "Moore, S.",
+      "Moustakas, J.",
+      "Mueller, E.",
+      "Muñoz-Gutiérrez, A.",
+      "Myers, A.D.",
+      "Nadathur, S.",
+      "Napolitano, L.",
+      "Neveux, R.",
+      "Newman, J.A.",
+      "Nguyen, N.M.",
+      "Nie, J.",
+      "Niz, G.",
+      "Noriega, H.E.",
+      "Padmanabhan, N.",
+      "Paillas, E.",
+      "Palanque-Delabrouille, N.",
+      "Pan, J.",
+      "Penmetsa, S.",
+      "Percival, W.J.",
+      "Pieri, M.M.",
+      "Pinon, M.",
+      "Poppett, C.",
+      "Porredon, A.",
+      "Prada, F.",
+      "Pérez-Fernández, A.",
+      "Pérez-Ràfols, I.",
+      "Rabinowitz, D.",
+      "Raichoor, A.",
+      "Ramírez-Pérez, C.",
+      "Ramirez-Solano, S.",
+      "Rashkovetskyi, M.",
+      "Ravoux, C.",
+      "Rezaie, M.",
+      "Rich, J.",
+      "Rocher, A.",
+      "Rockosi, C.",
+      "Roe, N.A.",
+      "Rosado-Marin, A.",
+      "Ross, A.J.",
+      "Rossi, G.",
+      "Ruggeri, R.",
+      "Ruhlmann-Kleider, V.",
+      "Samushia, L.",
+      "Sanchez, E.",
+      "Saulder, C.",
+      "Schlafly, E.F.",
+      "Schlegel, D.",
+      "Schubnell, M.",
+      "Seo, H.",
+      "Shafieloo, A.",
+      "Sharples, R.",
+      "Silber, J.",
+      "Slosar, A.",
+      "Smith, A.",
+      "Sprayberry, D.",
+      "Tan, T.",
+      "Tarlé, G.",
+      "Taylor, P.",
+      "Trusov, S.",
+      "Ureña-López, L.A.",
+      "Vaisakh, R.",
+      "Valcin, D.",
+      "Valdes, F.",
+      "Vargas-Magaña, M.",
+      "Verde, L.",
+      "Walther, M.",
+      "Wang, B.",
+      "Wang, M.S.",
+      "Weaver, B.A.",
+      "Weaverdyck, N.",
+      "Wechsler, R.H.",
+      "Weinberg, D.H.",
+      "White, M.",
+      "Yu, J.",
+      "Yu, Y.",
+      "Yuan, S.",
+      "Yèche, C.",
+      "Zaborowski, E.A.",
+      "Zarrouk, P.",
+      "Zhang, H.",
+      "Zhao, C.",
+      "Zhao, R.",
+      "Zhou, R.",
+      "Zhuang, T.",
+      "Zou, H.",
+      "The DESI collaboration"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2013ApJ...770...57B/abstract",
@@ -113,7 +317,14 @@
     "updatedAt": "2026-08-31",
     "volume": "711",
     "year": 2010,
-    "bibtex": "@ARTICLE{2010ApJ...711.1198T,\n       author = {{Trenti}, Michele and {Smith}, Britton D. and {Hallman}, Eric J. and et al.},\n        title = \"{How Well do Cosmological Simulations Reproduce Individual Halo Properties?}\",\n      journal = {\\apj},\n     keywords = {galaxies: formation, methods: numerical, Astrophysics - Cosmology and Nongalactic Astrophysics},\n         year = 2010,\n        month = mar,\n       volume = {711},\n       number = {2},\n        pages = {1198-1207},\n          doi = {10.1088/0004-637X/711/2/1198},\narchivePrefix = {arXiv},\n       eprint = {1001.5037},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2010ApJ...711.1198T},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2010ApJ...711.1198T,\n       author = {{Trenti}, Michele and {Smith}, Britton D. and {Hallman}, Eric J. and et al.},\n        title = \"{How Well do Cosmological Simulations Reproduce Individual Halo Properties?}\",\n      journal = {\\apj},\n     keywords = {galaxies: formation, methods: numerical, Astrophysics - Cosmology and Nongalactic Astrophysics},\n         year = 2010,\n        month = mar,\n       volume = {711},\n       number = {2},\n        pages = {1198-1207},\n          doi = {10.1088/0004-637X/711/2/1198},\narchivePrefix = {arXiv},\n       eprint = {1001.5037},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2010ApJ...711.1198T},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Trenti, Michele",
+      "Smith, Britton D.",
+      "Hallman, Eric J.",
+      "Skillman, Samuel W.",
+      "Shull, J. Michael"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..369N/abstract",
@@ -693,7 +904,14 @@
     "updatedAt": "2026-08-31",
     "volume": "527",
     "year": 2024,
-    "bibtex": "@ARTICLE{2024MNRAS.527.7731G,\n       author = {{Gao}, Yuan and {Li}, Hui and {Zhang}, Xiaojia and et al.},\n        title = \"{Globular clusters contribute to the nuclear star clusters and galaxy centre {\\ensuremath{\\gamma}}-ray excess, moderated by galaxy assembly history}\",\n      journal = {\\mnras},\n     keywords = {pulsars: general, Galaxy: centre, globular clusters: general, galaxies: evolution, gamma-rays: galaxies, Astrophysics - Astrophysics of Galaxies},\n         year = 2024,\n        month = jan,\n       volume = {527},\n       number = {3},\n        pages = {7731-7742},\n          doi = {10.1093/mnras/stad3585},\narchivePrefix = {arXiv},\n       eprint = {2311.17071},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.7731G},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2024MNRAS.527.7731G,\n       author = {{Gao}, Yuan and {Li}, Hui and {Zhang}, Xiaojia and et al.},\n        title = \"{Globular clusters contribute to the nuclear star clusters and galaxy centre {\\ensuremath{\\gamma}}-ray excess, moderated by galaxy assembly history}\",\n      journal = {\\mnras},\n     keywords = {pulsars: general, Galaxy: centre, globular clusters: general, galaxies: evolution, gamma-rays: galaxies, Astrophysics - Astrophysics of Galaxies},\n         year = 2024,\n        month = jan,\n       volume = {527},\n       number = {3},\n        pages = {7731-7742},\n          doi = {10.1093/mnras/stad3585},\narchivePrefix = {arXiv},\n       eprint = {2311.17071},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.7731G},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Gao, Yuan",
+      "Li, Hui",
+      "Zhang, Xiaojia",
+      "Su, Meng",
+      "Ng, Stephen Chi Yung"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.3196P/abstract",
@@ -722,7 +940,20 @@
     "updatedAt": "2026-08-31",
     "volume": "490",
     "year": 2019,
-    "bibtex": "@ARTICLE{2019MNRAS.490.3196P,\n       author = {{Pillepich}, Annalisa and {Nelson}, Dylan and {Springel}, Volker and et al.},\n        title = \"{First results from the TNG50 simulation: the evolution of stellar and gaseous discs across cosmic time}\",\n      journal = {\\mnras},\n         year = 2019,\n        month = dec,\n       volume = {490},\n        pages = {3196},\n          doi = {10.1093/mnras/stz2338},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.3196P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2019MNRAS.490.3196P,\n       author = {{Pillepich}, Annalisa and {Nelson}, Dylan and {Springel}, Volker and et al.},\n        title = \"{First results from the TNG50 simulation: the evolution of stellar and gaseous discs across cosmic time}\",\n      journal = {\\mnras},\n         year = 2019,\n        month = dec,\n       volume = {490},\n        pages = {3196},\n          doi = {10.1093/mnras/stz2338},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.3196P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Pillepich, Annalisa",
+      "Nelson, Dylan",
+      "Springel, Volker",
+      "Pakmor, Rüdiger",
+      "Torrey, Paul",
+      "Weinberger, Rainer",
+      "Vogelsberger, Mark",
+      "Marinacci, Federico",
+      "Genel, Shy",
+      "van der Wel, Arjen",
+      "Hernquist, Lars"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.3234N/abstract",
@@ -751,7 +982,19 @@
     "updatedAt": "2026-08-31",
     "volume": "490",
     "year": 2019,
-    "bibtex": "@ARTICLE{2019MNRAS.490.3234N,\n       author = {{Nelson}, Dylan and {Pillepich}, Annalisa and {Springel}, Volker and et al.},\n        title = \"{First results from the TNG50 simulation: galactic outflows driven by supernovae and black hole feedback}\",\n      journal = {\\mnras},\n     keywords = {galaxies: evolution, galaxies: formation, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - High Energy Astrophysical Phenomena},\n         year = 2019,\n        month = dec,\n       volume = {490},\n       number = {3},\n        pages = {3234-3261},\n          doi = {10.1093/mnras/stz2306},\narchivePrefix = {arXiv},\n       eprint = {1902.05554},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.3234N},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2019MNRAS.490.3234N,\n       author = {{Nelson}, Dylan and {Pillepich}, Annalisa and {Springel}, Volker and et al.},\n        title = \"{First results from the TNG50 simulation: galactic outflows driven by supernovae and black hole feedback}\",\n      journal = {\\mnras},\n     keywords = {galaxies: evolution, galaxies: formation, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - High Energy Astrophysical Phenomena},\n         year = 2019,\n        month = dec,\n       volume = {490},\n       number = {3},\n        pages = {3234-3261},\n          doi = {10.1093/mnras/stz2306},\narchivePrefix = {arXiv},\n       eprint = {1902.05554},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.3234N},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Nelson, Dylan",
+      "Pillepich, Annalisa",
+      "Springel, Volker",
+      "Pakmor, Rüdiger",
+      "Weinberger, Rainer",
+      "Genel, Shy",
+      "Torrey, Paul",
+      "Vogelsberger, Mark",
+      "Marinacci, Federico",
+      "Hernquist, Lars"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.5113M/abstract",
@@ -780,7 +1023,20 @@
     "updatedAt": "2026-08-31",
     "volume": "480",
     "year": 2018,
-    "bibtex": "@ARTICLE{2018MNRAS.480.5113M,\n       author = {{Marinacci}, Federico and {Vogelsberger}, Mark and {Pakmor}, R{\\\"u}diger and et al.},\n        title = \"{First results from the IllustrisTNG simulations: radio haloes and magnetic fields}\",\n      journal = {\\mnras},\n     keywords = {magnetic fields, MHD, methods: numerical, galaxies: clusters: general, cosmology: theory, radio continuum: general, Astrophysics - Cosmology and Nongalactic Astrophysics},\n         year = 2018,\n        month = nov,\n       volume = {480},\n       number = {4},\n        pages = {5113-5139},\n          doi = {10.1093/mnras/sty2206},\narchivePrefix = {arXiv},\n       eprint = {1707.03396},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.5113M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2018MNRAS.480.5113M,\n       author = {{Marinacci}, Federico and {Vogelsberger}, Mark and {Pakmor}, R{\\\"u}diger and et al.},\n        title = \"{First results from the IllustrisTNG simulations: radio haloes and magnetic fields}\",\n      journal = {\\mnras},\n     keywords = {magnetic fields, MHD, methods: numerical, galaxies: clusters: general, cosmology: theory, radio continuum: general, Astrophysics - Cosmology and Nongalactic Astrophysics},\n         year = 2018,\n        month = nov,\n       volume = {480},\n       number = {4},\n        pages = {5113-5139},\n          doi = {10.1093/mnras/sty2206},\narchivePrefix = {arXiv},\n       eprint = {1707.03396},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.5113M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Marinacci, Federico",
+      "Vogelsberger, Mark",
+      "Pakmor, Rüdiger",
+      "Torrey, Paul",
+      "Springel, Volker",
+      "Hernquist, Lars",
+      "Nelson, Dylan",
+      "Weinberger, Rainer",
+      "Pillepich, Annalisa",
+      "Naiman, Jill",
+      "Genel, Shy"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1206N/abstract",
@@ -809,7 +1065,21 @@
     "updatedAt": "2026-08-31",
     "volume": "477",
     "year": 2018,
-    "bibtex": "@ARTICLE{2018MNRAS.477.1206N,\n       author = {{Naiman}, Jill P. and {Pillepich}, Annalisa and {Springel}, Volker and et al.},\n        title = \"{First results from the IllustrisTNG simulations: a tale of two elements - chemical evolution of magnesium and europium}\",\n      journal = {\\mnras},\n     keywords = {methods: numerical, Galaxy: formation, cosmology: theory, Astrophysics - Astrophysics of Galaxies},\n         year = 2018,\n        month = jun,\n       volume = {477},\n       number = {1},\n        pages = {1206-1224},\n          doi = {10.1093/mnras/sty618},\narchivePrefix = {arXiv},\n       eprint = {1707.03401},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1206N},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2018MNRAS.477.1206N,\n       author = {{Naiman}, Jill P. and {Pillepich}, Annalisa and {Springel}, Volker and et al.},\n        title = \"{First results from the IllustrisTNG simulations: a tale of two elements - chemical evolution of magnesium and europium}\",\n      journal = {\\mnras},\n     keywords = {methods: numerical, Galaxy: formation, cosmology: theory, Astrophysics - Astrophysics of Galaxies},\n         year = 2018,\n        month = jun,\n       volume = {477},\n       number = {1},\n        pages = {1206-1224},\n          doi = {10.1093/mnras/sty618},\narchivePrefix = {arXiv},\n       eprint = {1707.03401},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1206N},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Naiman, Jill P",
+      "Pillepich, Annalisa",
+      "Springel, Volker",
+      "Ramirez-Ruiz, Enrico",
+      "Torrey, Paul",
+      "Vogelsberger, Mark",
+      "Pakmor, Rüdiger",
+      "Nelson, Dylan",
+      "Marinacci, Federico",
+      "Hernquist, Lars",
+      "Weinberger, Rainer",
+      "Genel, Shy"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..624N/abstract",
@@ -838,7 +1108,21 @@
     "updatedAt": "2026-08-31",
     "volume": "475",
     "year": 2018,
-    "bibtex": "@ARTICLE{2018MNRAS.475..624N,\n       author = {{Nelson}, Dylan and {Pillepich}, Annalisa and {Springel}, Volker and et al.},\n        title = \"{First results from the IllustrisTNG simulations: the galaxy colour bimodality}\",\n      journal = {\\mnras},\n         year = 2018,\n        month = mar,\n       volume = {475},\n        pages = {624},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..624N},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2018MNRAS.475..624N,\n       author = {{Nelson}, Dylan and {Pillepich}, Annalisa and {Springel}, Volker and et al.},\n        title = \"{First results from the IllustrisTNG simulations: the galaxy colour bimodality}\",\n      journal = {\\mnras},\n         year = 2018,\n        month = mar,\n       volume = {475},\n        pages = {624},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..624N},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Dylan Nelson",
+      "Annalisa Pillepich",
+      "Volker Springel",
+      "Rainer Weinberger",
+      "Lars Hernquist",
+      "Rüdiger Pakmor",
+      "Shy Genel",
+      "Paul Torrey",
+      "Mark Vogelsberger",
+      "Guinevere Kauffmann",
+      "Federico Marinacci",
+      "Jill Naiman"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..676S/abstract",
@@ -867,7 +1151,20 @@
     "updatedAt": "2026-08-31",
     "volume": "475",
     "year": 2018,
-    "bibtex": "@ARTICLE{2018MNRAS.475..676S,\n       author = {{Springel}, Volker and {Pakmor}, R{\\\"u}diger and {Pillepich}, Annalisa and et al.},\n        title = \"{First results from the IllustrisTNG simulations: matter and galaxy clustering}\",\n      journal = {\\mnras},\n     keywords = {methods: numerical, galaxy formation, large-scale structure of Universe, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},\n         year = 2018,\n        month = mar,\n       volume = {475},\n       number = {1},\n        pages = {676-698},\n          doi = {10.1093/mnras/stx3304},\narchivePrefix = {arXiv},\n       eprint = {1707.03397},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..676S},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2018MNRAS.475..676S,\n       author = {{Springel}, Volker and {Pakmor}, R{\\\"u}diger and {Pillepich}, Annalisa and et al.},\n        title = \"{First results from the IllustrisTNG simulations: matter and galaxy clustering}\",\n      journal = {\\mnras},\n     keywords = {methods: numerical, galaxy formation, large-scale structure of Universe, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},\n         year = 2018,\n        month = mar,\n       volume = {475},\n       number = {1},\n        pages = {676-698},\n          doi = {10.1093/mnras/stx3304},\narchivePrefix = {arXiv},\n       eprint = {1707.03397},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..676S},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Volker Springel",
+      "Rüdiger Pakmor",
+      "Annalisa Pillepich",
+      "Rainer Weinberger",
+      "Dylan Nelson",
+      "Lars Hernquist",
+      "Mark Vogelsberger",
+      "Shy Genel",
+      "Paul Torrey",
+      "Federico Marinacci",
+      "Jill Naiman"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..648P/abstract",
@@ -896,7 +1193,20 @@
     "updatedAt": "2026-08-31",
     "volume": "475",
     "year": 2018,
-    "bibtex": "@ARTICLE{2018MNRAS.475..648P,\n       author = {{Pillepich}, Annalisa and {Nelson}, Dylan and {Hernquist}, Lars and et al.},\n        title = \"{First results from the IllustrisTNG simulations: the stellar mass content of groups and clusters of galaxies}\",\n      journal = {\\mnras},\n         year = 2018,\n        month = mar,\n       volume = {475},\n        pages = {648},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..648P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2018MNRAS.475..648P,\n       author = {{Pillepich}, Annalisa and {Nelson}, Dylan and {Hernquist}, Lars and et al.},\n        title = \"{First results from the IllustrisTNG simulations: the stellar mass content of groups and clusters of galaxies}\",\n      journal = {\\mnras},\n         year = 2018,\n        month = mar,\n       volume = {475},\n        pages = {648},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..648P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Annalisa Pillepich",
+      "Dylan Nelson",
+      "Lars Hernquist",
+      "Volker Springel",
+      "Rüdiger Pakmor",
+      "Paul Torrey",
+      "Rainer Weinberger",
+      "Shy Genel",
+      "Jill P Naiman",
+      "Federico Marinacci",
+      "Mark Vogelsberger"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024Sci...384.1488F/abstract",
@@ -925,7 +1235,14 @@
     "updatedAt": "2026-08-31",
     "volume": "384",
     "year": 2024,
-    "bibtex": "@ARTICLE{2024Sci...384.1488F,\n       author = {{Fujii}, Michiko S. and {Wang}, Long and {Tanikawa}, Ataru and et al.},\n        title = \"{Simulations predict intermediate-mass black hole formation in globular clusters}\",\n      journal = {Science},\n         year = 2024,\n        month = jun,\n       volume = {384},\n        pages = {1488},\n          doi = {10.1126/science.adi4211},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024Sci...384.1488F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2024Sci...384.1488F,\n       author = {{Fujii}, Michiko S. and {Wang}, Long and {Tanikawa}, Ataru and et al.},\n        title = \"{Simulations predict intermediate-mass black hole formation in globular clusters}\",\n      journal = {Science},\n         year = 2024,\n        month = jun,\n       volume = {384},\n        pages = {1488},\n          doi = {10.1126/science.adi4211},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024Sci...384.1488F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Fujii, Michiko S.",
+      "Wang, Long",
+      "Tanikawa, Ataru",
+      "Hirai, Yutaka",
+      "Saitoh, Takayuki R."
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2007PASJ...59.1095F/abstract",
@@ -954,7 +1271,13 @@
     "updatedAt": "2026-08-31",
     "volume": "59",
     "year": 2007,
-    "bibtex": "@ARTICLE{2007PASJ...59.1095F,\n       author = {{Fujii}, Michiko and {Iwasawa}, Masaki and {Funato}, Yoko and et al.},\n        title = \"{BRIDGE: A Direct-Tree Hybrid N-Body Algorithm for Fully Self-Consistent Simulations of Star Clusters and Their Parent Galaxies}\",\n      journal = {\\pasj},\n         year = 2007,\n        month = dec,\n       volume = {59},\n        pages = {1095},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2007PASJ...59.1095F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2007PASJ...59.1095F,\n       author = {{Fujii}, Michiko and {Iwasawa}, Masaki and {Funato}, Yoko and et al.},\n        title = \"{BRIDGE: A Direct-Tree Hybrid N-Body Algorithm for Fully Self-Consistent Simulations of Star Clusters and Their Parent Galaxies}\",\n      journal = {\\pasj},\n         year = 2007,\n        month = dec,\n       volume = {59},\n        pages = {1095},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2007PASJ...59.1095F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Michiko Fujii",
+      "Masaki Iwasawa",
+      "Yoko Funato",
+      "Junichiro Makino"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025ApJ...980L..25H/abstract",
@@ -983,7 +1306,14 @@
     "updatedAt": "2026-08-31",
     "volume": "980",
     "year": 2025,
-    "bibtex": "@ARTICLE{2025ApJ...980L..25H,\n       author = {{Hirai}, Yutaka and {Saitoh}, Takayuki R. and {Fujii}, Michiko S. and et al.},\n        title = \"{SIRIUS: Identifying Metal-poor Stars Enriched by a Single Supernova in a Dwarf Galaxy Cosmological Zoom-in Simulation Resolving Individual Massive Stars}\",\n      journal = {\\apjl},\n         year = 2025,\n        month = feb,\n       volume = {980},\n        pages = {L25},\n          doi = {10.3847/2041-8213/adaf95},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025ApJ...980L..25H},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2025ApJ...980L..25H,\n       author = {{Hirai}, Yutaka and {Saitoh}, Takayuki R. and {Fujii}, Michiko S. and et al.},\n        title = \"{SIRIUS: Identifying Metal-poor Stars Enriched by a Single Supernova in a Dwarf Galaxy Cosmological Zoom-in Simulation Resolving Individual Massive Stars}\",\n      journal = {\\apjl},\n         year = 2025,\n        month = feb,\n       volume = {980},\n        pages = {L25},\n          doi = {10.3847/2041-8213/adaf95},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025ApJ...980L..25H},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Hirai, Yutaka",
+      "Saitoh, Takayuki R.",
+      "Fujii, Michiko S.",
+      "Kaneko, Katsuhiro",
+      "Beers, Timothy C."
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1074F/abstract",
@@ -1012,7 +1342,13 @@
     "updatedAt": "2026-08-31",
     "volume": "73",
     "year": 2021,
-    "bibtex": "@ARTICLE{2021PASJ...73.1074F,\n       author = {{Fujii}, Michiko S. and {Saitoh}, Takayuki R. and {Hirai}, Yutaka and et al.},\n        title = \"{SIRIUS project. III. Star-by-star simulations of star cluster formation using a direct N-body integrator with stellar feedback}\",\n      journal = {\\pasj},\n         year = 2021,\n        month = aug,\n       volume = {73},\n        pages = {1074},\n          doi = {10.1093/pasj/psab061},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1074F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2021PASJ...73.1074F,\n       author = {{Fujii}, Michiko S. and {Saitoh}, Takayuki R. and {Hirai}, Yutaka and et al.},\n        title = \"{SIRIUS project. III. Star-by-star simulations of star cluster formation using a direct N-body integrator with stellar feedback}\",\n      journal = {\\pasj},\n         year = 2021,\n        month = aug,\n       volume = {73},\n        pages = {1074},\n          doi = {10.1093/pasj/psab061},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1074F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Fujii, Michiko S",
+      "Saitoh, Takayuki R",
+      "Hirai, Yutaka",
+      "Wang, Long"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1036H/abstract",
@@ -1070,7 +1406,13 @@
     "updatedAt": "2026-08-31",
     "volume": "73",
     "year": 2021,
-    "bibtex": "@ARTICLE{2021PASJ...73.1057F,\n       author = {{Fujii}, Michiko S. and {Saitoh}, Takayuki R. and {Wang}, Long and et al.},\n        title = \"{SIRIUS project. II. A new tree-direct hybrid code for smoothed particle hydrodynamics/N-body simulations of star clusters}\",\n      journal = {\\pasj},\n         year = 2021,\n        month = aug,\n       volume = {73},\n        pages = {1057},\n          doi = {10.1093/pasj/psab037},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1057F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2021PASJ...73.1057F,\n       author = {{Fujii}, Michiko S. and {Saitoh}, Takayuki R. and {Wang}, Long and et al.},\n        title = \"{SIRIUS project. II. A new tree-direct hybrid code for smoothed particle hydrodynamics/N-body simulations of star clusters}\",\n      journal = {\\pasj},\n         year = 2021,\n        month = aug,\n       volume = {73},\n        pages = {1057},\n          doi = {10.1093/pasj/psab037},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1057F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Fujii, Michiko S",
+      "Saitoh, Takayuki R",
+      "Wang, Long",
+      "Hirai, Yutaka"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.514...43F/abstract",
@@ -1099,7 +1441,16 @@
     "updatedAt": "2026-08-31",
     "volume": "514",
     "year": 2022,
-    "bibtex": "@ARTICLE{2022MNRAS.514...43F,\n       author = {{Fujii}, Michiko S. and {Hattori}, Kohei and {Wang}, Long and et al.},\n        title = \"{SIRIUS Project - V. Formation of off-centre ionized bubbles associated with Orion Nebula Cluster}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = jul,\n       volume = {514},\n        pages = {43},\n          doi = {10.1093/mnras/stac808},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.514...43F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2022MNRAS.514...43F,\n       author = {{Fujii}, Michiko S. and {Hattori}, Kohei and {Wang}, Long and et al.},\n        title = \"{SIRIUS Project - V. Formation of off-centre ionized bubbles associated with Orion Nebula Cluster}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = jul,\n       volume = {514},\n        pages = {43},\n          doi = {10.1093/mnras/stac808},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.514...43F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Fujii, Michiko S",
+      "Hattori, Kohei",
+      "Wang, Long",
+      "Hirai, Yutaka",
+      "Kumamoto, Jun",
+      "Shimajiri, Yoshito",
+      "Saitoh, Takayuki R"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.2513F/abstract",
@@ -1128,7 +1479,15 @@
     "updatedAt": "2026-08-31",
     "volume": "514",
     "year": 2022,
-    "bibtex": "@ARTICLE{2022MNRAS.514.2513F,\n       author = {{Fujii}, Michiko S. and {Wang}, Long and {Hirai}, Yutaka and et al.},\n        title = \"{SIRIUS Project - IV. The formation history of the Orion Nebula Cluster driven by clump mergers}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = aug,\n       volume = {514},\n        pages = {2513},\n          doi = {10.1093/mnras/stac1496},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.2513F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2022MNRAS.514.2513F,\n       author = {{Fujii}, Michiko S. and {Wang}, Long and {Hirai}, Yutaka and et al.},\n        title = \"{SIRIUS Project - IV. The formation history of the Orion Nebula Cluster driven by clump mergers}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = aug,\n       volume = {514},\n        pages = {2513},\n          doi = {10.1093/mnras/stac1496},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.2513F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Fujii, Michiko S",
+      "Wang, Long",
+      "Hirai, Yutaka",
+      "Shimajiri, Yoshito",
+      "Kumamoto, Jun",
+      "Saitoh, Takayuki"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.475.5570H/abstract",
@@ -1273,7 +1632,19 @@
     "updatedAt": "2026-08-31",
     "volume": "689",
     "year": 2024,
-    "bibtex": "@ARTICLE{2024A&A...689A..34V,\n       author = {{Vergara}, M. C. and {Schleicher}, D. R. G. and {Escala}, A. and et al.},\n        title = \"{Efficiency of black hole formation via collisions in stellar systems: Data analysis from simulations and observations}\",\n      journal = {\\aap},\n         year = 2024,\n        month = sep,\n       volume = {689},\n        pages = {A34},\n          doi = {10.1051/0004-6361/202449967},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024A&A...689A..34V},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2024A&A...689A..34V,\n       author = {{Vergara}, M. C. and {Schleicher}, D. R. G. and {Escala}, A. and et al.},\n        title = \"{Efficiency of black hole formation via collisions in stellar systems: Data analysis from simulations and observations}\",\n      journal = {\\aap},\n         year = 2024,\n        month = sep,\n       volume = {689},\n        pages = {A34},\n          doi = {10.1051/0004-6361/202449967},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024A&A...689A..34V},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Vergara, M. C.",
+      "Schleicher, D. R. G.",
+      "Escala, A.",
+      "Reinoso, B.",
+      "Flammini Dotti, F.",
+      "Kamlah, A. W. H.",
+      "Liempi, M.",
+      "Hoyer, N.",
+      "Neumayer, N.",
+      "Spurzem, R."
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4224V/abstract",
@@ -1302,7 +1673,13 @@
     "updatedAt": "2026-08-31",
     "volume": "522",
     "year": 2023,
-    "bibtex": "@ARTICLE{2023MNRAS.522.4224V,\n       author = {{Vergara}, M. C. and {Escala}, A. and {Schleicher}, D. R. G. and et al.},\n        title = \"{Global instability by runaway collisions in nuclear stellar clusters: numerical tests of a route for massive black hole formation}\",\n      journal = {\\mnras},\n         year = 2023,\n        month = jul,\n       volume = {522},\n        pages = {4224},\n          doi = {10.1093/mnras/stad1253},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4224V},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2023MNRAS.522.4224V,\n       author = {{Vergara}, M. C. and {Escala}, A. and {Schleicher}, D. R. G. and et al.},\n        title = \"{Global instability by runaway collisions in nuclear stellar clusters: numerical tests of a route for massive black hole formation}\",\n      journal = {\\mnras},\n         year = 2023,\n        month = jul,\n       volume = {522},\n        pages = {4224},\n          doi = {10.1093/mnras/stad1253},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4224V},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Vergara, M C",
+      "Escala, A",
+      "Schleicher, D R G",
+      "Reinoso, B"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026A%26A...707A..71V/abstract",
@@ -1331,7 +1708,19 @@
     "updatedAt": "2026-08-31",
     "volume": "707",
     "year": 2026,
-    "bibtex": "@ARTICLE{2026A&A...707A..71V,\n       author = {{Vergara}, M. C. and {Askar}, A. and {Flammini Dotti}, F. and et al.},\n        title = \"{Efficient black hole seed formation in low-metallicity and dense stellar clusters with implications for JWST sources}\",\n      journal = {\\aap},\n         year = 2026,\n        month = mar,\n       volume = {707},\n        pages = {A71},\n          doi = {10.1051/0004-6361/202556878},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026A&A...707A..71V},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2026A&A...707A..71V,\n       author = {{Vergara}, M. C. and {Askar}, A. and {Flammini Dotti}, F. and et al.},\n        title = \"{Efficient black hole seed formation in low-metallicity and dense stellar clusters with implications for JWST sources}\",\n      journal = {\\aap},\n         year = 2026,\n        month = mar,\n       volume = {707},\n        pages = {A71},\n          doi = {10.1051/0004-6361/202556878},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026A&A...707A..71V},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Vergara, M. C.",
+      "Askar, A.",
+      "Flammini Dotti, F.",
+      "Schleicher, D. R. G.",
+      "Escala, A.",
+      "Spurzem, R.",
+      "Giersz, M.",
+      "Hurley, J.",
+      "Arca Sedda, M.",
+      "Neumayer, N."
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026arXiv260825856D/abstract",
@@ -1389,7 +1778,16 @@
     "updatedAt": "2026-08-31",
     "volume": "450",
     "year": 2015,
-    "bibtex": "@ARTICLE{2015MNRAS.450.4070W,\n       author = {{Wang}, Long and {Spurzem}, Rainer and {Aarseth}, Sverre and et al.},\n        title = \"{NBODY6++GPU: ready for the gravitational million-body problem}\",\n      journal = {\\mnras},\n         year = 2015,\n        month = jul,\n       volume = {450},\n        pages = {4070},\n          doi = {10.1093/mnras/stv817},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.4070W},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2015MNRAS.450.4070W,\n       author = {{Wang}, Long and {Spurzem}, Rainer and {Aarseth}, Sverre and et al.},\n        title = \"{NBODY6++GPU: ready for the gravitational million-body problem}\",\n      journal = {\\mnras},\n         year = 2015,\n        month = jul,\n       volume = {450},\n        pages = {4070},\n          doi = {10.1093/mnras/stv817},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.4070W},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Wang, Long",
+      "Spurzem, Rainer",
+      "Aarseth, Sverre",
+      "Nitadori, Keigo",
+      "Berczik, Peter",
+      "Kouwenhoven, M. B. N.",
+      "Naab, Thorsten"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.4060K/abstract",
@@ -1418,7 +1816,21 @@
     "updatedAt": "2026-08-31",
     "volume": "511",
     "year": 2022,
-    "bibtex": "@ARTICLE{2022MNRAS.511.4060K,\n       author = {{Kamlah}, A. W. H. and {Leveque}, A. and {Spurzem}, R. and et al.},\n        title = \"{Preparing the next gravitational million-body simulations: evolution of single and binary stars in NBODY6++GPU, MOCCA, and MCLUSTER}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = apr,\n       volume = {511},\n        pages = {4060},\n          doi = {10.1093/mnras/stab3748},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.4060K},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2022MNRAS.511.4060K,\n       author = {{Kamlah}, A. W. H. and {Leveque}, A. and {Spurzem}, R. and et al.},\n        title = \"{Preparing the next gravitational million-body simulations: evolution of single and binary stars in NBODY6++GPU, MOCCA, and MCLUSTER}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = apr,\n       volume = {511},\n        pages = {4060},\n          doi = {10.1093/mnras/stab3748},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.4060K},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Kamlah, A W H",
+      "Leveque, A",
+      "Spurzem, R",
+      "Arca Sedda, M",
+      "Askar, A",
+      "Banerjee, S",
+      "Berczik, P",
+      "Giersz, M",
+      "Hurley, J",
+      "Belloni, D",
+      "Kühmichel, L",
+      "Wang, L"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026RAA....26a5009L/abstract",
@@ -1534,7 +1946,14 @@
     "updatedAt": "2026-08-31",
     "volume": "543",
     "year": 2025,
-    "bibtex": "@ARTICLE{2025MNRAS.543.2130R,\n       author = {{Rantala}, Antti and {Lahén}, Natalia and {Naab}, Thorsten and et al.},\n        title = \"{FROST-CLUSTERS ─ II. Massive stars, binaries, and triples boost supermassive black hole seed formation in assembling star clusters}\",\n      journal = {\\mnras},\n         year = 2025,\n        month = nov,\n       volume = {543},\n        pages = {2130},\n          doi = {10.1093/mnras/staf1519},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025MNRAS.543.2130R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2025MNRAS.543.2130R,\n       author = {{Rantala}, Antti and {Lahén}, Natalia and {Naab}, Thorsten and et al.},\n        title = \"{FROST-CLUSTERS ─ II. Massive stars, binaries, and triples boost supermassive black hole seed formation in assembling star clusters}\",\n      journal = {\\mnras},\n         year = 2025,\n        month = nov,\n       volume = {543},\n        pages = {2130},\n          doi = {10.1093/mnras/staf1519},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025MNRAS.543.2130R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Rantala, Antti",
+      "Lahén, Natalia",
+      "Naab, Thorsten",
+      "Escobar, Gastón J",
+      "Iorio, Giuliano"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.5180R/abstract",
@@ -1563,7 +1982,15 @@
     "updatedAt": "2026-08-31",
     "volume": "522",
     "year": 2023,
-    "bibtex": "@ARTICLE{2023MNRAS.522.5180R,\n       author = {{Rantala}, Antti and {Naab}, Thorsten and {Rizzuto}, Francesco Paolo and et al.},\n        title = \"{BIFROST: simulating compact subsystems in star clusters using a hierarchical fourth-order forward symplectic integrator code}\",\n      journal = {\\mnras},\n         year = 2023,\n        month = jul,\n       volume = {522},\n        pages = {5180},\n          doi = {10.1093/mnras/stad1360},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.5180R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2023MNRAS.522.5180R,\n       author = {{Rantala}, Antti and {Naab}, Thorsten and {Rizzuto}, Francesco Paolo and et al.},\n        title = \"{BIFROST: simulating compact subsystems in star clusters using a hierarchical fourth-order forward symplectic integrator code}\",\n      journal = {\\mnras},\n         year = 2023,\n        month = jul,\n       volume = {522},\n        pages = {5180},\n          doi = {10.1093/mnras/stad1360},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.5180R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Rantala, Antti",
+      "Naab, Thorsten",
+      "Rizzuto, Francesco Paolo",
+      "Mannerkoski, Matias",
+      "Partmann, Christian",
+      "Lautenschütz, Kristina"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.5546R/abstract",
@@ -1621,7 +2048,16 @@
     "updatedAt": "2026-08-31",
     "volume": "549",
     "year": 2026,
-    "bibtex": "@ARTICLE{2026MNRAS.549ag986R,\n       author = {{Rantala}, Antti and {Naab}, Thorsten and {Lahén}, Natalia and et al.},\n        title = \"{FROST-CLUSTERS ─ III. Metallicity-dependent intermediate-mass black hole formation by runaway collisions in dense star clusters}\",\n      journal = {\\mnras},\n         year = 2026,\n        month = jul,\n       volume = {549},\n        pages = {stag986},\n          doi = {10.1093/mnras/stag986},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag986R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2026MNRAS.549ag986R,\n       author = {{Rantala}, Antti and {Naab}, Thorsten and {Lahén}, Natalia and et al.},\n        title = \"{FROST-CLUSTERS ─ III. Metallicity-dependent intermediate-mass black hole formation by runaway collisions in dense star clusters}\",\n      journal = {\\mnras},\n         year = 2026,\n        month = jul,\n       volume = {549},\n        pages = {stag986},\n          doi = {10.1093/mnras/stag986},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag986R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Rantala, Antti",
+      "Naab, Thorsten",
+      "Lahén, Natalia",
+      "Reuter, Klaus",
+      "Rampp, Markus",
+      "Chruślińska, Martyna",
+      "Reinoso, Bastián"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2010ApJ...712..833C/abstract",
@@ -1679,7 +2115,13 @@
     "updatedAt": "2026-08-31",
     "volume": "9",
     "year": 2024,
-    "bibtex": "@ARTICLE{2024JOSS....9.6296B,\n       author = {{Berlok}, Thomas and {Jlassi}, Léna and {Puchwein}, Ewald and et al.},\n        title = \"{Paicos: A Python package for analysis of (cosmological) simulations performed with Arepo}\",\n      journal = {The Journal of Open Source Software},\n         year = 2024,\n        month = apr,\n       volume = {9},\n        pages = {6296},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024JOSS....9.6296B},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2024JOSS....9.6296B,\n       author = {{Berlok}, Thomas and {Jlassi}, Léna and {Puchwein}, Ewald and et al.},\n        title = \"{Paicos: A Python package for analysis of (cosmological) simulations performed with Arepo}\",\n      journal = {The Journal of Open Source Software},\n         year = 2024,\n        month = apr,\n       volume = {9},\n        pages = {6296},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024JOSS....9.6296B},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Thomas Berlok",
+      "Léna Jlassi",
+      "Ewald Puchwein",
+      "Troels Haugbølle"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2016MNRAS.455.1134P/abstract",
@@ -1708,7 +2150,17 @@
     "updatedAt": "2026-08-31",
     "volume": "455",
     "year": 2016,
-    "bibtex": "@ARTICLE{2016MNRAS.455.1134P,\n       author = {{Pakmor}, Rüdiger and {Springel}, Volker and {Bauer}, Andreas and et al.},\n        title = \"{Improving the convergence properties of the moving-mesh code AREPO}\",\n      journal = {\\mnras},\n         year = 2016,\n        month = jan,\n       volume = {455},\n        pages = {1134},\n          doi = {10.1093/mnras/stv2380},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2016MNRAS.455.1134P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2016MNRAS.455.1134P,\n       author = {{Pakmor}, Rüdiger and {Springel}, Volker and {Bauer}, Andreas and et al.},\n        title = \"{Improving the convergence properties of the moving-mesh code AREPO}\",\n      journal = {\\mnras},\n         year = 2016,\n        month = jan,\n       volume = {455},\n        pages = {1134},\n          doi = {10.1093/mnras/stv2380},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2016MNRAS.455.1134P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Pakmor, Rüdiger",
+      "Springel, Volker",
+      "Bauer, Andreas",
+      "Mocz, Philip",
+      "Munoz, Diego J.",
+      "Ohlmann, Sebastian T.",
+      "Schaal, Kevin",
+      "Zhu, Chenchong"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2011MNRAS.418.1392P/abstract",
@@ -1853,7 +2305,31 @@
     "updatedAt": "2026-08-31",
     "volume": "1003",
     "year": 2026,
-    "bibtex": "@ARTICLE{2026ApJ..1003..244F,\n       author = {{Fei}, Qinyue and {Fujimoto}, Seiji and {Naidu}, Rohan P. and et al.},\n        title = \"{A GLIMPSE of Intermediate Mass Black Holes in the Epoch of Reionization: Witnessing the Descendants of Direct Collapse?}\",\n      journal = {\\apj},\n         year = 2026,\n        month = jun,\n       volume = {1003},\n        pages = {244},\n          doi = {10.3847/1538-4357/ae6248},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026ApJ..1003..244F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2026ApJ..1003..244F,\n       author = {{Fei}, Qinyue and {Fujimoto}, Seiji and {Naidu}, Rohan P. and et al.},\n        title = \"{A GLIMPSE of Intermediate Mass Black Holes in the Epoch of Reionization: Witnessing the Descendants of Direct Collapse?}\",\n      journal = {\\apj},\n         year = 2026,\n        month = jun,\n       volume = {1003},\n        pages = {244},\n          doi = {10.3847/1538-4357/ae6248},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026ApJ..1003..244F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Fei, Qinyue",
+      "Fujimoto, Seiji",
+      "Naidu, Rohan P.",
+      "Chisholm, John",
+      "Atek, Hakim",
+      "Brammer, Gabriel",
+      "Asada, Yoshihisa",
+      "Berg, Danielle A.",
+      "Bromm, Volker",
+      "Furtak, Lukas J.",
+      "Greene, Jenny E.",
+      "Hsiao, Tiger Yu-Yang",
+      "Jeon, Junehyoung",
+      "Kokorev, Vasily",
+      "Matthee, Jorryt",
+      "Natarajan, Priyamvada",
+      "Pan, Richard",
+      "Richard, Johan",
+      "Saldana-Lopez, Alberto",
+      "Schaerer, Daniel",
+      "Volonteri, Marta",
+      "Zitrin, Adi"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.2245L/abstract",
@@ -1882,7 +2358,14 @@
     "updatedAt": "2026-08-31",
     "volume": "531",
     "year": 2024,
-    "bibtex": "@ARTICLE{2024MNRAS.531.2245L,\n       author = {{Lai}, Samuel and {Onken}, Christopher A. and {Wolf}, Christian and et al.},\n        title = \"{Supermassive black holes are growing slowly by z 5}\",\n      journal = {\\mnras},\n         year = 2024,\n        month = jun,\n       volume = {531},\n        pages = {2245},\n          doi = {10.1093/mnras/stae1301},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.2245L},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2024MNRAS.531.2245L,\n       author = {{Lai}, Samuel and {Onken}, Christopher A. and {Wolf}, Christian and et al.},\n        title = \"{Supermassive black holes are growing slowly by z 5}\",\n      journal = {\\mnras},\n         year = 2024,\n        month = jun,\n       volume = {531},\n        pages = {2245},\n          doi = {10.1093/mnras/stae1301},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.2245L},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Lai, Samuel",
+      "Onken, Christopher A",
+      "Wolf, Christian",
+      "Bian, Fuyan",
+      "Fan, Xiaohui"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024ApJ...962..152H/abstract",
@@ -1911,7 +2394,23 @@
     "updatedAt": "2026-08-31",
     "volume": "962",
     "year": 2024,
-    "bibtex": "@ARTICLE{2024ApJ...962..152H,\n       author = {{He}, Wanqiu and {Akiyama}, Masayuki and {Enoki}, Motohiro and et al.},\n        title = \"{Black Hole Mass and Eddington-ratio Distributions of Less-luminous Quasars at z ∼ 4 in the Subaru Hyper Suprime-Cam Wide Field}\",\n      journal = {\\apj},\n         year = 2024,\n        month = feb,\n       volume = {962},\n        pages = {152},\n          doi = {10.3847/1538-4357/ad1518},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024ApJ...962..152H},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2024ApJ...962..152H,\n       author = {{He}, Wanqiu and {Akiyama}, Masayuki and {Enoki}, Motohiro and et al.},\n        title = \"{Black Hole Mass and Eddington-ratio Distributions of Less-luminous Quasars at z ∼ 4 in the Subaru Hyper Suprime-Cam Wide Field}\",\n      journal = {\\apj},\n         year = 2024,\n        month = feb,\n       volume = {962},\n        pages = {152},\n          doi = {10.3847/1538-4357/ad1518},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024ApJ...962..152H},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "He, Wanqiu",
+      "Akiyama, Masayuki",
+      "Enoki, Motohiro",
+      "Ichikawa, Kohei",
+      "Inayoshi, Kohei",
+      "Kashikawa, Nobunari",
+      "Kawaguchi, Toshihiro",
+      "Matsuoka, Yoshiki",
+      "Nagao, Tohru",
+      "Onoue, Masafusa",
+      "Oogi, Taira",
+      "Schulze, Andreas",
+      "Toba, Yoshiki",
+      "Ueda, Yoshihiro"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.2659W/abstract",
@@ -1940,7 +2439,20 @@
     "updatedAt": "2026-08-31",
     "volume": "517",
     "year": 2022,
-    "bibtex": "@ARTICLE{2022MNRAS.517.2659W,\n       author = {{Wu}, Jin and {Shen}, Yue and {Jiang}, Linhua and et al.},\n        title = \"{Demographics of z   6 quasars in the black hole mass-luminosity plane}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = dec,\n       volume = {517},\n        pages = {2659},\n          doi = {10.1093/mnras/stac2833},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.2659W},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2022MNRAS.517.2659W,\n       author = {{Wu}, Jin and {Shen}, Yue and {Jiang}, Linhua and et al.},\n        title = \"{Demographics of z   6 quasars in the black hole mass-luminosity plane}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = dec,\n       volume = {517},\n        pages = {2659},\n          doi = {10.1093/mnras/stac2833},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.2659W},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Wu, Jin",
+      "Shen, Yue",
+      "Jiang, Linhua",
+      "Bañados, Eduardo",
+      "Fan, Xiaohui",
+      "Ho, Luis C",
+      "Vestergaard, Marianne",
+      "Wang, Feige",
+      "Wang, Shu",
+      "Wu, Xue-Bing",
+      "Yang, Jinyi"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024ApJ...963..129M/abstract",
@@ -1969,7 +2481,37 @@
     "updatedAt": "2026-08-31",
     "volume": "963",
     "year": 2024,
-    "bibtex": "@ARTICLE{2024ApJ...963..129M,\n       author = {{Matthee}, Jorryt and {Naidu}, Rohan P. and {Brammer}, Gabriel and et al.},\n        title = \"{Little Red Dots: An Abundant Population of Faint Active Galactic Nuclei at z ∼ 5 Revealed by the EIGER and FRESCO JWST Surveys}\",\n      journal = {\\apj},\n         year = 2024,\n        month = mar,\n       volume = {963},\n        pages = {129},\n          doi = {10.3847/1538-4357/ad2345},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024ApJ...963..129M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2024ApJ...963..129M,\n       author = {{Matthee}, Jorryt and {Naidu}, Rohan P. and {Brammer}, Gabriel and et al.},\n        title = \"{Little Red Dots: An Abundant Population of Faint Active Galactic Nuclei at z ∼ 5 Revealed by the EIGER and FRESCO JWST Surveys}\",\n      journal = {\\apj},\n         year = 2024,\n        month = mar,\n       volume = {963},\n        pages = {129},\n          doi = {10.3847/1538-4357/ad2345},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024ApJ...963..129M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Matthee, Jorryt",
+      "Naidu, Rohan P.",
+      "Brammer, Gabriel",
+      "Chisholm, John",
+      "Eilers, Anna-Christina",
+      "Goulding, Andy",
+      "Greene, Jenny",
+      "Kashino, Daichi",
+      "Labbe, Ivo",
+      "Lilly, Simon J.",
+      "Mackenzie, Ruari",
+      "Oesch, Pascal A.",
+      "Weibel, Andrea",
+      "Wuyts, Stijn",
+      "Xiao, Mengyuan",
+      "Bordoloi, Rongmon",
+      "Bouwens, Rychard",
+      "van Dokkum, Pieter",
+      "Illingworth, Garth",
+      "Kramarenko, Ivan",
+      "Maseda, Michael V.",
+      "Mason, Charlotte",
+      "Meyer, Romain A.",
+      "Nelson, Erica J.",
+      "Reddy, Naveen A.",
+      "Shivaei, Irene",
+      "Simcoe, Robert A.",
+      "Yue, Minghao"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025ApJ...986..165T/abstract",
@@ -1998,7 +2540,60 @@
     "updatedAt": "2026-08-31",
     "volume": "986",
     "year": 2025,
-    "bibtex": "@ARTICLE{2025ApJ...986..165T,\n       author = {{Taylor}, Anthony J. and {Finkelstein}, Steven L. and {Kocevski}, Dale D. and et al.},\n        title = \"{Broad-line AGNs at 3.5 < z < 6: The Black Hole Mass Function and a Connection with Little Red Dots}\",\n      journal = {\\apj},\n         year = 2025,\n        month = jun,\n       volume = {986},\n        pages = {165},\n          doi = {10.3847/1538-4357/add15b},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025ApJ...986..165T},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2025ApJ...986..165T,\n       author = {{Taylor}, Anthony J. and {Finkelstein}, Steven L. and {Kocevski}, Dale D. and et al.},\n        title = \"{Broad-line AGNs at 3.5 < z < 6: The Black Hole Mass Function and a Connection with Little Red Dots}\",\n      journal = {\\apj},\n         year = 2025,\n        month = jun,\n       volume = {986},\n        pages = {165},\n          doi = {10.3847/1538-4357/add15b},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025ApJ...986..165T},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Taylor, Anthony J.",
+      "Finkelstein, Steven L.",
+      "Kocevski, Dale D.",
+      "Jeon, Junehyoung",
+      "Bromm, Volker",
+      "Amorín, Ricardo O.",
+      "Arrabal Haro, Pablo",
+      "Backhaus, Bren E.",
+      "Bagley, Micaela B.",
+      "Banados, Eduardo",
+      "Bhatawdekar, Rachana",
+      "Brooks, Madisyn",
+      "Calabrò, Antonello",
+      "Chávez Ortiz, Óscar A.",
+      "Cheng, Yingjie",
+      "Cleri, Nikko J.",
+      "Cole, Justin W.",
+      "Davis, Kelcey",
+      "Dickinson, Mark",
+      "Donnan, Callum",
+      "Dunlop, James S.",
+      "Ellis, Richard S.",
+      "Fernández, Vital",
+      "Fontana, Adriano",
+      "Fujimoto, Seiji",
+      "Giavalisco, Mauro",
+      "Grazian, Andrea",
+      "Guo, Jingsong",
+      "Hathi, Nimish P.",
+      "Holwerda, Benne W.",
+      "Hirschmann, Michaela",
+      "Inayoshi, Kohei",
+      "Kartaltepe, Jeyhan S.",
+      "Khusanova, Yana",
+      "Koekemoer, Anton M.",
+      "Kokorev, Vasily",
+      "Larson, Rebecca L.",
+      "Leung, Gene C. K.",
+      "Lucas, Ray A.",
+      "McLeod, Derek J.",
+      "Napolitano, Lorenzo",
+      "Onoue, Masafusa",
+      "Pacucci, Fabio",
+      "Papovich, Casey",
+      "Pérez-González, Pablo G.",
+      "Pirzkal, Nor",
+      "Somerville, Rachel S.",
+      "Trump, Jonathan R.",
+      "Wilkins, Stephen M.",
+      "Yung, L. Y. Aaron",
+      "Zhang, Haowen"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026Natur.653.1017J/abstract",
@@ -2027,7 +2622,49 @@
     "updatedAt": "2026-08-31",
     "volume": "653",
     "year": 2026,
-    "bibtex": "@ARTICLE{2026Natur.653.1017J,\n       author = {{Juodžbalis}, Ignas and {Marconcini}, Cosimo and {D'Eugenio}, Francesco and et al.},\n        title = \"{A direct black-hole mass measurement in a little red dot at high redshift}\",\n      journal = {\\nat},\n         year = 2026,\n        month = may,\n       volume = {653},\n       number = {8116},\n        pages = {1017},\n          doi = {10.1038/s41586-026-10579-4},\narchivePrefix = {arXiv},\n       eprint = {2503.16596},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026Natur.653.1017J},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2026Natur.653.1017J,\n       author = {{Juodžbalis}, Ignas and {Marconcini}, Cosimo and {D'Eugenio}, Francesco and et al.},\n        title = \"{A direct black-hole mass measurement in a little red dot at high redshift}\",\n      journal = {\\nat},\n         year = 2026,\n        month = may,\n       volume = {653},\n       number = {8116},\n        pages = {1017},\n          doi = {10.1038/s41586-026-10579-4},\narchivePrefix = {arXiv},\n       eprint = {2503.16596},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026Natur.653.1017J},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Juodžbalis, Ignas",
+      "Marconcini, Cosimo",
+      "D’Eugenio, Francesco",
+      "Maiolino, Roberto",
+      "Marconi, Alessandro",
+      "Übler, Hannah",
+      "Scholtz, Jan",
+      "Ji, Xihan",
+      "Jones, Gareth C.",
+      "Perna, Michele",
+      "Arribas, Santiago",
+      "Bennett, Jake S.",
+      "Bromm, Volker",
+      "Bunker, Andrew J.",
+      "Carniani, Stefano",
+      "Charlot, Stéphane",
+      "Cresci, Giovanni",
+      "Dayal, Pratika",
+      "Egami, Eiichi",
+      "Fabian, Andrew",
+      "Inayoshi, Kohei",
+      "Isobe, Yuki",
+      "Ivey, Lucy R.",
+      "Koudmani, Sophie",
+      "Laporte, Nicolas",
+      "Liu, Boyuan",
+      "Lyu, Jianwei",
+      "Mazzolari, Giovanni",
+      "Monty, Stephanie",
+      "Parlanti, Eleonora",
+      "Pérez-González, Pablo G.",
+      "Robertson, Brant",
+      "Schneider, Raffaella",
+      "Sijacki, Debora",
+      "Tacchella, Sandro",
+      "Trinca, Alessandro",
+      "Valiante, Rosa",
+      "Volonteri, Marta",
+      "Witstok, Joris",
+      "Zhang, Saiyang"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..19Z/abstract",
@@ -2056,7 +2693,13 @@
     "updatedAt": "2026-08-31",
     "volume": "1000",
     "year": 2026,
-    "bibtex": "@ARTICLE{2026ApJ..1000L..19Z,\n       author = {{Zhang}, Saiyang and {Liu}, Boyuan and {Bromm}, Volker and et al.},\n        title = \"{Primordial Black Holes as Seeds for Extremely Overmassive Active Galactic Nuclei Observed by JWST}\",\n      journal = {\\apjl},\n         year = 2026,\n        month = mar,\n       volume = {1000},\n       number = {1},\n        pages = {L19},\n          doi = {10.3847/2041-8213/ae4bd0},\narchivePrefix = {arXiv},\n       eprint = {2512.14066},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..19Z},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2026ApJ..1000L..19Z,\n       author = {{Zhang}, Saiyang and {Liu}, Boyuan and {Bromm}, Volker and et al.},\n        title = \"{Primordial Black Holes as Seeds for Extremely Overmassive Active Galactic Nuclei Observed by JWST}\",\n      journal = {\\apjl},\n         year = 2026,\n        month = mar,\n       volume = {1000},\n       number = {1},\n        pages = {L19},\n          doi = {10.3847/2041-8213/ae4bd0},\narchivePrefix = {arXiv},\n       eprint = {2512.14066},\n primaryClass = {astro-ph.CO},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..19Z},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Zhang 張, Saiyang 賽暘",
+      "Liu 劉, Boyuan 博遠",
+      "Bromm, Volker",
+      "Kühnel, Florian"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026MNRAS.548f2109M/abstract",
@@ -2085,7 +2728,47 @@
     "updatedAt": "2026-08-31",
     "volume": "548",
     "year": 2026,
-    "bibtex": "@ARTICLE{2026MNRAS.548f2109M,\n       author = {{Maiolino}, Roberto and {Übler}, Hannah and {D'Eugenio}, Francesco and et al.},\n        title = \"{A black hole in a near pristine galaxy 700 Myr after the big bang}\",\n      journal = {\\mnras},\n         year = 2026,\n        month = may,\n       volume = {548},\n       number = {1},\n        pages = {staf2109},\n          doi = {10.1093/mnras/staf2109},\narchivePrefix = {arXiv},\n       eprint = {2505.22567},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026MNRAS.548f2109M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2026MNRAS.548f2109M,\n       author = {{Maiolino}, Roberto and {Übler}, Hannah and {D'Eugenio}, Francesco and et al.},\n        title = \"{A black hole in a near pristine galaxy 700 Myr after the big bang}\",\n      journal = {\\mnras},\n         year = 2026,\n        month = may,\n       volume = {548},\n       number = {1},\n        pages = {staf2109},\n          doi = {10.1093/mnras/staf2109},\narchivePrefix = {arXiv},\n       eprint = {2505.22567},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026MNRAS.548f2109M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Maiolino, Roberto",
+      "Übler, Hannah",
+      "D’Eugenio, Francesco",
+      "Scholtz, Jan",
+      "Juodžbalis, Ignas",
+      "Ji, Xihan",
+      "Perna, Michele",
+      "Bromm, Volker",
+      "Dayal, Pratika",
+      "Koudmani, Sophie",
+      "Liu, Boyuan",
+      "Schneider, Raffaella",
+      "Sijacki, Debora",
+      "Valiante, Rosa",
+      "Trinca, Alessandro",
+      "Zhang, Saiyang",
+      "Volonteri, Marta",
+      "Inayoshi, Kohei",
+      "Carniani, Stefano",
+      "Nakajima, Kimihiko",
+      "Isobe, Yuki",
+      "Witstok, Joris",
+      "Jones, Gareth C",
+      "Tacchella, Sandro",
+      "Arribas, Santiago",
+      "Bunker, Andrew",
+      "Cataldi, Elisa",
+      "Charlot, Stephane",
+      "Curti, Giovanni Cresci Mirko",
+      "Fabian, Andrew C",
+      "Katz, Harley",
+      "Kumari, Nimisha",
+      "Laporte, Nicolas",
+      "Mazzolari, Giovanni",
+      "Robertson, Brant",
+      "Sun, Fengwu",
+      "Del Pino, Bruno Rodriguez",
+      "Venturi, Giacomo"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2026MNRAS.547ag401D/abstract",
@@ -2114,7 +2797,41 @@
     "updatedAt": "2026-08-31",
     "volume": "547",
     "year": 2026,
-    "bibtex": "@ARTICLE{2026MNRAS.547ag401D,\n       author = {{D'Eugenio}, Francesco and {Maiolino}, Roberto and {Perna}, Michele and et al.},\n        title = \"{BlackTHUNDER strikes twice: Balmer-line absorption in an overmassive Little Red Dot at z = 7.04}\",\n      journal = {\\mnras},\n         year = 2026,\n        month = apr,\n       volume = {547},\n       number = {4},\n        pages = {stag401},\n          doi = {10.1093/mnras/stag401},\narchivePrefix = {arXiv},\n       eprint = {2503.11752},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026MNRAS.547ag401D},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2026MNRAS.547ag401D,\n       author = {{D'Eugenio}, Francesco and {Maiolino}, Roberto and {Perna}, Michele and et al.},\n        title = \"{BlackTHUNDER strikes twice: Balmer-line absorption in an overmassive Little Red Dot at z = 7.04}\",\n      journal = {\\mnras},\n         year = 2026,\n        month = apr,\n       volume = {547},\n       number = {4},\n        pages = {stag401},\n          doi = {10.1093/mnras/stag401},\narchivePrefix = {arXiv},\n       eprint = {2503.11752},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2026MNRAS.547ag401D},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "D’Eugenio, Francesco",
+      "Maiolino, Roberto",
+      "Perna, Michele",
+      "Übler, Hannah",
+      "Ji, Xihan",
+      "McClymont, William",
+      "Koudmani, Sophie",
+      "Sijacki, Debora",
+      "Juodžbalis, Ignas",
+      "Scholtz, Jan",
+      "Bennett, Jake S",
+      "Bunker, Andrew J",
+      "Carniani, Stefano",
+      "Charlot, Stéphane",
+      "Cresci, Giovanni",
+      "Curtis-Lake, Emma",
+      "Dalla Bontà, Elena",
+      "Inayoshi, Kohei",
+      "Jones, Gareth C",
+      "Lyu, Jianwei",
+      "Marconi, Alessandro",
+      "Mazzolari, Giovanni",
+      "Nelson, Erica J",
+      "Parlanti, Eleonora",
+      "Robertson, Brant E",
+      "Schneider, Raffaella",
+      "Simmonds, Charlotte",
+      "Tacchella, Sandro",
+      "Venturi, Giacomo",
+      "Willott, Chris",
+      "Witstok, Joris",
+      "Witten, Callum"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.227F/abstract",
@@ -2143,7 +2860,37 @@
     "updatedAt": "2026-08-31",
     "volume": "698",
     "year": 2025,
-    "bibtex": "@ARTICLE{2025A&A...698A.227F,\n       author = {{Furtak}, Lukas J. and {Secunda}, Amy R. and {Greene}, Jenny E. and et al.},\n        title = \"{Investigating photometric and spectroscopic variability in the multiply imaged little red dot A2744-QSO1}\",\n      journal = {\\aap},\n         year = 2025,\n        month = jun,\n       volume = {698},\n        pages = {A227},\n          doi = {10.1051/0004-6361/202554110},\narchivePrefix = {arXiv},\n       eprint = {2502.07875},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.227F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2025A&A...698A.227F,\n       author = {{Furtak}, Lukas J. and {Secunda}, Amy R. and {Greene}, Jenny E. and et al.},\n        title = \"{Investigating photometric and spectroscopic variability in the multiply imaged little red dot A2744-QSO1}\",\n      journal = {\\aap},\n         year = 2025,\n        month = jun,\n       volume = {698},\n        pages = {A227},\n          doi = {10.1051/0004-6361/202554110},\narchivePrefix = {arXiv},\n       eprint = {2502.07875},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.227F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Furtak, Lukas J.",
+      "Secunda, Amy R.",
+      "Greene, Jenny E.",
+      "Zitrin, Adi",
+      "Labbé, Ivo",
+      "Golubchik, Miriam",
+      "Bezanson, Rachel",
+      "Kokorev, Vasily",
+      "Atek, Hakim",
+      "Brammer, Gabriel B.",
+      "Chemerynska, Iryna",
+      "Cutler, Sam E.",
+      "Dayal, Pratika",
+      "Feldmann, Robert",
+      "Fujimoto, Seiji",
+      "Glazebrook, Karl",
+      "Leja, Joel",
+      "Ma, Yilun",
+      "Matthee, Jorryt",
+      "Naidu, Rohan P.",
+      "Nelson, Erica J.",
+      "Oesch, Pascal A.",
+      "Pan, Richard",
+      "Price, Sedona H.",
+      "Suess, Katherine A.",
+      "Wang, Bingjie",
+      "Weaver, John R.",
+      "Whitaker, Katherine E."
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025MNRAS.544.3900J/abstract",
@@ -2172,7 +2919,46 @@
     "updatedAt": "2026-08-31",
     "volume": "544",
     "year": 2025,
-    "bibtex": "@ARTICLE{2025MNRAS.544.3900J,\n       author = {{Ji}, Xihan and {Maiolino}, Roberto and {Übler}, Hannah and et al.},\n        title = \"{BlackTHUNDER ─ A non-stellar Balmer break in a black hole-dominated little red dot at z = 7.04}\",\n      journal = {\\mnras},\n         year = 2025,\n        month = dec,\n       volume = {544},\n       number = {4},\n        pages = {3900},\n          doi = {10.1093/mnras/staf1867},\narchivePrefix = {arXiv},\n       eprint = {2501.13082},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025MNRAS.544.3900J},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2025MNRAS.544.3900J,\n       author = {{Ji}, Xihan and {Maiolino}, Roberto and {Übler}, Hannah and et al.},\n        title = \"{BlackTHUNDER ─ A non-stellar Balmer break in a black hole-dominated little red dot at z = 7.04}\",\n      journal = {\\mnras},\n         year = 2025,\n        month = dec,\n       volume = {544},\n       number = {4},\n        pages = {3900},\n          doi = {10.1093/mnras/staf1867},\narchivePrefix = {arXiv},\n       eprint = {2501.13082},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025MNRAS.544.3900J},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Ji, Xihan",
+      "Maiolino, Roberto",
+      "Übler, Hannah",
+      "Scholtz, Jan",
+      "D’Eugenio, Francesco",
+      "Sun, Fengwu",
+      "Perna, Michele",
+      "Turner, Hannah",
+      "Carniani, Stefano",
+      "Arribas, Santiago",
+      "Bennett, Jake S",
+      "Bunker, Andrew",
+      "Charlot, Stéphane",
+      "Cresci, Giovanni",
+      "Curti, Mirko",
+      "Egami, Eiichi",
+      "Fabian, Andy",
+      "Inayoshi, Kohei",
+      "Isobe, Yuki",
+      "Jones, Gareth",
+      "Juodžbalis, Ignas",
+      "Kumari, Nimisha",
+      "Lyu, Jianwei",
+      "Mazzolari, Giovanni",
+      "Parlanti, Eleonora",
+      "Robertson, Brant",
+      "Rodríguez Del Pino, Bruno",
+      "Schneider, Raffaella",
+      "Sijacki, Debora",
+      "Tacchella, Sandro",
+      "Trinca, Alessandro",
+      "Valiante, Rosa",
+      "Venturi, Giacomo",
+      "Volonteri, Marta",
+      "Willott, Chris",
+      "Witten, Callum",
+      "Witstok, Joris"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025ApJ...981..191M/abstract",
@@ -2201,7 +2987,32 @@
     "updatedAt": "2026-08-31",
     "volume": "981",
     "year": 2025,
-    "bibtex": "@ARTICLE{2025ApJ...981..191M,\n       author = {{Ma}, Yilun and {Greene}, Jenny E. and {Setton}, David J. and et al.},\n        title = \"{UNCOVER: 404 Error—Models Not Found for the Triply Imaged Little Red Dot A2744-QSO1}\",\n      journal = {\\apj},\n         year = 2025,\n        month = mar,\n       volume = {981},\n       number = {2},\n        pages = {191},\n          doi = {10.3847/1538-4357/ada613},\narchivePrefix = {arXiv},\n       eprint = {2410.06257},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025ApJ...981..191M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2025ApJ...981..191M,\n       author = {{Ma}, Yilun and {Greene}, Jenny E. and {Setton}, David J. and et al.},\n        title = \"{UNCOVER: 404 Error—Models Not Found for the Triply Imaged Little Red Dot A2744-QSO1}\",\n      journal = {\\apj},\n         year = 2025,\n        month = mar,\n       volume = {981},\n       number = {2},\n        pages = {191},\n          doi = {10.3847/1538-4357/ada613},\narchivePrefix = {arXiv},\n       eprint = {2410.06257},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025ApJ...981..191M},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Ma 马, Yilun 逸伦",
+      "Greene, Jenny E.",
+      "Setton, David J.",
+      "Volonteri, Marta",
+      "Leja, Joel",
+      "Wang 王, Bingjie 冰洁",
+      "Bezanson, Rachel",
+      "Brammer, Gabriel",
+      "Cutler, Sam E.",
+      "Dayal, Pratika",
+      "van Dokkum, Pieter",
+      "Furtak, Lukas J.",
+      "Glazebrook, Karl",
+      "Goulding, Andy D.",
+      "de Graaff, Anna",
+      "Kokorev, Vasily",
+      "Labbe, Ivo",
+      "Pan, Richard",
+      "Price, Sedona H.",
+      "Weaver, John R.",
+      "Williams, Christina C.",
+      "Whitaker, Katherine E.",
+      "Zitrin, Adi"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2024Natur.628...57F/abstract",
@@ -2230,7 +3041,47 @@
     "updatedAt": "2026-08-31",
     "volume": "628",
     "year": 2024,
-    "bibtex": "@ARTICLE{2024Natur.628...57F,\n       author = {{Furtak}, Lukas J. and {Labbé}, Ivo and {Zitrin}, Adi and et al.},\n        title = \"{A high black-hole-to-host mass ratio in a lensed AGN in the early Universe}\",\n      journal = {\\nat},\n         year = 2024,\n        month = apr,\n       volume = {628},\n       number = {8006},\n        pages = {57},\n          doi = {10.1038/s41586-024-07184-8},\narchivePrefix = {arXiv},\n       eprint = {2308.05735},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024Natur.628...57F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2024Natur.628...57F,\n       author = {{Furtak}, Lukas J. and {Labbé}, Ivo and {Zitrin}, Adi and et al.},\n        title = \"{A high black-hole-to-host mass ratio in a lensed AGN in the early Universe}\",\n      journal = {\\nat},\n         year = 2024,\n        month = apr,\n       volume = {628},\n       number = {8006},\n        pages = {57},\n          doi = {10.1038/s41586-024-07184-8},\narchivePrefix = {arXiv},\n       eprint = {2308.05735},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2024Natur.628...57F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Furtak, Lukas J.",
+      "Labbé, Ivo",
+      "Zitrin, Adi",
+      "Greene, Jenny E.",
+      "Dayal, Pratika",
+      "Chemerynska, Iryna",
+      "Kokorev, Vasily",
+      "Miller, Tim B.",
+      "Goulding, Andy D.",
+      "de Graaff, Anna",
+      "Bezanson, Rachel",
+      "Brammer, Gabriel B.",
+      "Cutler, Sam E.",
+      "Leja, Joel",
+      "Pan, Richard",
+      "Price, Sedona H.",
+      "Wang, Bingjie",
+      "Weaver, John R.",
+      "Whitaker, Katherine E.",
+      "Atek, Hakim",
+      "Bogdán, Ákos",
+      "Charlot, Stéphane",
+      "Curtis-Lake, Emma",
+      "van Dokkum, Pieter",
+      "Endsley, Ryan",
+      "Feldmann, Robert",
+      "Fudamoto, Yoshinobu",
+      "Fujimoto, Seiji",
+      "Glazebrook, Karl",
+      "Juneau, Stéphanie",
+      "Marchesini, Danilo",
+      "Maseda, Micheal V.",
+      "Nelson, Erica",
+      "Oesch, Pascal A.",
+      "Plat, Adèle",
+      "Setton, David J.",
+      "Stark, Daniel P.",
+      "Williams, Christina C."
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2023ApJ...952..142F/abstract",
@@ -2259,7 +3110,41 @@
     "updatedAt": "2026-08-31",
     "volume": "952",
     "year": 2023,
-    "bibtex": "@ARTICLE{2023ApJ...952..142F,\n       author = {{Furtak}, Lukas J. and {Zitrin}, Adi and {Plat}, Adèle and et al.},\n        title = \"{JWST UNCOVER: Extremely Red and Compact Object at z phot ≃ 7.6 Triply Imaged by A2744}\",\n      journal = {\\apj},\n         year = 2023,\n        month = aug,\n       volume = {952},\n       number = {2},\n        pages = {142},\n          doi = {10.3847/1538-4357/acdc9d},\narchivePrefix = {arXiv},\n       eprint = {2212.10531},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2023ApJ...952..142F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2023ApJ...952..142F,\n       author = {{Furtak}, Lukas J. and {Zitrin}, Adi and {Plat}, Adèle and et al.},\n        title = \"{JWST UNCOVER: Extremely Red and Compact Object at z phot ≃ 7.6 Triply Imaged by A2744}\",\n      journal = {\\apj},\n         year = 2023,\n        month = aug,\n       volume = {952},\n       number = {2},\n        pages = {142},\n          doi = {10.3847/1538-4357/acdc9d},\narchivePrefix = {arXiv},\n       eprint = {2212.10531},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2023ApJ...952..142F},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Furtak, Lukas J.",
+      "Zitrin, Adi",
+      "Plat, Adèle",
+      "Fujimoto, Seiji",
+      "Wang 王, Bingjie 冰 洁",
+      "Nelson, Erica J.",
+      "Labbé, Ivo",
+      "Bezanson, Rachel",
+      "Brammer, Gabriel B.",
+      "van Dokkum, Pieter",
+      "Endsley, Ryan",
+      "Glazebrook, Karl",
+      "Greene, Jenny E.",
+      "Leja, Joel",
+      "Price, Sedona H.",
+      "Smit, Renske",
+      "Stark, Daniel P.",
+      "Weaver, John R.",
+      "Whitaker, Katherine E.",
+      "Atek, Hakim",
+      "Chevallard, Jacopo",
+      "Curtis-Lake, Emma",
+      "Dayal, Pratika",
+      "Feltre, Anna",
+      "Franx, Marijn",
+      "Fudamoto, Yoshinobu",
+      "Marchesini, Danilo",
+      "Mowla, Lamiya A.",
+      "Pan, Richard",
+      "Suess, Katherine A.",
+      "Vidal-García, Alba",
+      "Williams, Christina C."
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2018PASA...35...31P/abstract",
@@ -2288,7 +3173,36 @@
     "updatedAt": "2026-08-31",
     "volume": "35",
     "year": 2018,
-    "bibtex": "@ARTICLE{2018PASA...35...31P,\n       author = {{Price}, Daniel J. and {Wurster}, James and {Tricco}, Terrence S. and et al.},\n        title = \"{Phantom: A Smoothed Particle Hydrodynamics and Magnetohydrodynamics Code for Astrophysics}\",\n      journal = {\\pasa},\n         year = 2018,\n        month = sep,\n       volume = {35},\n        pages = {e031},\n          doi = {10.1017/pasa.2018.25},\narchivePrefix = {arXiv},\n       eprint = {1702.03930},\n primaryClass = {astro-ph.IM},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018PASA...35...31P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2018PASA...35...31P,\n       author = {{Price}, Daniel J. and {Wurster}, James and {Tricco}, Terrence S. and et al.},\n        title = \"{Phantom: A Smoothed Particle Hydrodynamics and Magnetohydrodynamics Code for Astrophysics}\",\n      journal = {\\pasa},\n         year = 2018,\n        month = sep,\n       volume = {35},\n        pages = {e031},\n          doi = {10.1017/pasa.2018.25},\narchivePrefix = {arXiv},\n       eprint = {1702.03930},\n primaryClass = {astro-ph.IM},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2018PASA...35...31P},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Price, Daniel J.",
+      "Wurster, James",
+      "Tricco, Terrence S.",
+      "Nixon, Chris",
+      "Toupin, Stéven",
+      "Pettitt, Alex",
+      "Chan, Conrad",
+      "Mentiplay, Daniel",
+      "Laibe, Guillaume",
+      "Glover, Simon",
+      "Dobbs, Clare",
+      "Nealon, Rebecca",
+      "Liptai, David",
+      "Worpel, Hauke",
+      "Bonnerot, Clément",
+      "Dipierro, Giovanni",
+      "Ballabio, Giulia",
+      "Ragusa, Enrico",
+      "Federrath, Christoph",
+      "Iaconi, Roberto",
+      "Reichardt, Thomas",
+      "Forgan, Duncan",
+      "Hutchison, Mark",
+      "Constantino, Thomas",
+      "Ayliffe, Ben",
+      "Hirsh, Kieran",
+      "Lodato, Giuseppe"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.6155R/abstract",
@@ -2317,7 +3231,14 @@
     "updatedAt": "2026-08-31",
     "volume": "509",
     "year": 2022,
-    "bibtex": "@ARTICLE{2022MNRAS.509.6155R,\n       author = {{Rieder}, Steven and {Dobbs}, Clare and {Bending}, Thomas and et al.},\n        title = \"{The formation and early evolution of embedded star clusters in spiral galaxies}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = feb,\n       volume = {509},\n       number = {4},\n        pages = {6155},\n          doi = {10.1093/mnras/stab3425},\narchivePrefix = {arXiv},\n       eprint = {2111.09720},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.6155R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2022MNRAS.509.6155R,\n       author = {{Rieder}, Steven and {Dobbs}, Clare and {Bending}, Thomas and et al.},\n        title = \"{The formation and early evolution of embedded star clusters in spiral galaxies}\",\n      journal = {\\mnras},\n         year = 2022,\n        month = feb,\n       volume = {509},\n       number = {4},\n        pages = {6155},\n          doi = {10.1093/mnras/stab3425},\narchivePrefix = {arXiv},\n       eprint = {2111.09720},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.6155R},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Rieder, Steven",
+      "Dobbs, Clare",
+      "Bending, Thomas",
+      "Liow, Kong You",
+      "Wurster, James"
+    ]
   },
   {
     "adsUrl": "https://ui.adsabs.harvard.edu/abs/2025A%26A...702A..26B/abstract",
@@ -2346,6 +3267,14 @@
     "updatedAt": "2026-08-31",
     "volume": "702",
     "year": 2025,
-    "bibtex": "@ARTICLE{2025A&A...702A..26B,\n       author = {{Bernard}, Y. and {Moraux}, E. and {Price}, D. J. and et al.},\n        title = \"{DAWN: I. Simulating the formation and early evolution of stellar clusters with Phantom N-Body}\",\n      journal = {\\aap},\n         year = 2025,\n        month = oct,\n       volume = {702},\n        pages = {A26},\n          doi = {10.1051/0004-6361/202554938},\narchivePrefix = {arXiv},\n       eprint = {2508.05296},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025A%26A...702A..26B},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}"
+    "bibtex": "@ARTICLE{2025A&A...702A..26B,\n       author = {{Bernard}, Y. and {Moraux}, E. and {Price}, D. J. and et al.},\n        title = \"{DAWN: I. Simulating the formation and early evolution of stellar clusters with Phantom N-Body}\",\n      journal = {\\aap},\n         year = 2025,\n        month = oct,\n       volume = {702},\n        pages = {A26},\n          doi = {10.1051/0004-6361/202554938},\narchivePrefix = {arXiv},\n       eprint = {2508.05296},\n primaryClass = {astro-ph.GA},\n       adsurl = {https://ui.adsabs.harvard.edu/abs/2025A%26A...702A..26B},\n      adsnote = {Provided by the SAO/NASA Astrophysics Data System}\n}",
+    "authors": [
+      "Bernard, Y.",
+      "Moraux, E.",
+      "Price, D. J.",
+      "Motte, F.",
+      "Louvet, F.",
+      "Joncour, I."
+    ]
   }
 ]
